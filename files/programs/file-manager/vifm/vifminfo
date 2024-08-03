@@ -1,0 +1,1565 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/chai/
+	..
+1610573918
+'b
+	/home/chai/bin/
+	..
+1610573941
+'h
+	/home/chai/
+	..
+1610573941
+'z
+	/home/chai/.config/vifm
+	..
+1610573918
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v1
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/
+	home
+4
+d/home
+	chai
+1
+d/home/chai
+	Downloads
+14
+d/home/chai/Downloads
+	backup_config
+1
+d/home/chai/Downloads/backup_config
+	vifm
+6
+d/home/chai/Downloads/backup_config/vifm
+	vifmrca
+7
+d/home/chai/Downloads/backup_config
+	vifm
+6
+d/home/chai/Downloads/backup_config/vifm
+	colors
+1
+d/home/chai/Downloads/backup_config/vifm/colors
+	gruvbox.vifm
+12
+d/home/chai/Downloads/backup_config/vifm
+	colors
+1
+d/home/chai/Downloads/backup_config
+	vifm
+6
+d/home/chai/Downloads
+	backup_config
+1
+d/home/chai
+	.config
+3
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config/vifm/colors
+	..
+0
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config/vifm/colors
+	Default.vifm
+4
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config
+	vifm-bakk
+13
+d/home/chai/.config/vifm-bakk
+	colors
+1
+d/home/chai/.config/vifm-bakk/colors
+	..
+0
+d/home/chai/.config/vifm-bakk
+	colors
+1
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config
+	i3
+9
+d/home/chai
+	Downloads
+14
+d/home/chai/Downloads
+	backup_config
+1
+d/home/chai/Downloads/backup_config
+	vifm
+6
+d/home/chai/Downloads/backup_config/vifm
+	scripts
+2
+d/home/chai/Downloads/backup_config/vifm/scripts
+	..
+0
+d/home/chai/Downloads/backup_config/vifm
+	colors
+1
+d/home/chai/Downloads/backup_config/vifm/colors
+	astrell.vifm
+6
+d/home/chai/Downloads/backup_config/vifm
+	colors
+1
+d/home/chai/Downloads/backup_config
+	vifm
+6
+d/home/chai/Downloads
+	backup_config
+1
+d/home/chai
+	.config
+3
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config/vifm/colors
+	COPYING
+2
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config/vifm/colors
+	ph.vifm
+19
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config
+	vifm
+12
+d/home/chai
+	Downloads
+14
+d/home/chai/Downloads
+	onedark.vifm
+3
+d/home/chai
+	.config
+3
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config/vifm/colors
+	onedark.vifm
+19
+d/home/chai/.config/vifm
+	vifm-help.txt
+3
+d/home/chai/.config
+	vifm
+12
+d/home/chai
+	Downloads
+14
+d/home/chai/Downloads
+	zenburn_1.vifm
+4
+d/home/chai
+	Downloads
+14
+d/home
+	chai
+1
+d/home/chai
+	.config
+3
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config/vifm/colors
+	zenburn_1.vifm
+26
+d/home/chai/.config/vifm
+	vifm-help.txt
+3
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	vifmrc
+7
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config/vifm/colors
+	zenburn_1.vifm
+26
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	vifmrc
+7
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/vifm
+	colors
+1
+d/home/chai/.config/vifm/colors
+	zenburn.vifm
+25
+d/home/chai/.config/vifm
+	vifmrc
+7
+d/home/chai
+	.config
+3
+d/home/chai/.config
+	i3
+9
+d/home/chai/.config/i3
+	config
+1
+d/home/chai
+	.local
+5
+d/home
+	chai
+1
+d/
+	home
+4
+d/home/chai
+	.config
+3
+d/home/chai/.config
+	i3
+9
+d/home/chai
+	essonCommands
+33
+d/home
+	chai
+1
+d/home/chai
+	essonCommands
+33
+d/home
+	chai
+1
+d/
+	home
+4
+d/home/chai
+	.config
+3
+d/home/chai/.config
+	vifm
+12
+d/home/chai/.config/nixpkgs
+	nix-home
+1
+d/home/chai/.config/nixpkgs/nix-home
+	..
+0
+d/home/chai/.config/nixpkgs
+	nix-home
+1
+d/home/chai/.config
+	nixpkgs
+11
+d/home/chai/.config/nixpkgs
+	nix-home
+1
+d/home/chai/.config/nixpkgs/nix-home
+	..
+0
+d/home/chai/.config/nixpkgs
+	nix-home
+1
+d/home/chai/.config
+	nixpkgs
+11
+d/home/chai/.config/nixpkgs
+	nix-home
+1
+d/home/chai/.config/nixpkgs/nix-home
+	..
+0
+d/home/chai/.config/nixpkgs
+	..
+0
+d/home/chai/.config
+	nixpkgs
+11
+d
+
+# Right window history (oldest to newest):
+D/home/chai/Music
+	..
+0
+D/home/chai
+	..
+0
+D/home
+	chai
+1
+D/home/chai
+	Documents
+2
+D/home/chai/Documents
+	..
+0
+D/home/chai
+	Desktop
+1
+D/home
+	chai
+1
+D/home/chai
+	Downloads
+3
+D/home
+	chai
+1
+D/
+	home
+4
+D/home
+	chai
+1
+D/
+	home
+4
+D/home
+	chai
+1
+D/home/chai/Downloads
+	..
+0
+D/home/chai/.config/vifm
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:vim 1_user_property
+:shell vim 1_user_property.sql
+:mkdir 2020-05-bijlagen
+:colorscheme Default
+:colorscheme ph
+:colorscheme iceberg
+:colorscheme darkdesert
+:colorscheme desert
+:shell mkdir yup
+:shell "mkdir yup"
+:mkdir yup
+:sort -ext
+:sort 
+:1:q
+:shell mkdir kraanbezoek
+:mkdir kraanbezoek
+:unzip x-
+:mkdir bla
+:mkdir applicantImages
+:vim %f
+:gvim %f
+:vim
+:unzip
+:!unzip
+:mkdir yt
+:mkdir arabic
+:shell mkdir seeds
+:sort
+:! .vim
+:q
+:set background=dark
+:set background="dark"
+:sy
+
+# Search history (oldest to newest):
+/comp
+/com
+/transition_
+/check
+/init
+/lagr
+/sera
+/keten
+/1599
+/Che
+/Boe
+/wav
+/the-t
+/into-
+/fre
+/more
+/More
+/X-
+/20-
+/resolv.conf
+/kho
+/vim
+/odt
+/aaa
+/fact
+/meen
+/vali
+/code
+/fire
+/mee
+/Ar
+/ure
+/Ha
+/snake
+/prot
+/asse
+/kraa
+/apr
+/whatsa
+/medaqq
+/zip
+/009
+/176
+/171
+/rr
+/10
+/uw
+/Avatar
+/mp4
+/appl
+/urenstaat
+/gr
+/vif
+/cong
+/ticke
+/@
+/pho
+/Re
+/bra
+/uren
+/06-20
+/meldin
+/esc
+/Es
+/zorg
+/la ro
+/vakan
+/liba
+/ods\
+/ods
+/urenstaa
+/lib
+/trn
+/juli
+/MI
+/mta
+/B
+/.ods
+/aug
+/20-08
+/ben
+/uren au
+/scree
+/spee
+/repe
+/mm
+/firef
+/urenstaat 
+/en_
+/7a
+/came
+/0000
+/road
+/loon
+/arb
+/verkla
+/sir
+/status
+/req
+/unti
+
+# Prompt history (oldest to newest):
+pseedApplications.js
+p1a_user_region_location_settings.sql
+p2_status_transitions_script.sql
+pmigrate_test_data.js
+ppackage.json-bak
+puserdata
+p3_user_region_location_settings.sql
+pstatus_transitions_script.sql
+pcopper3.jpg
+pfirefox-ff
+pfirefox
+pfirefox68.9
+p1_fetch_user_location_settings.sql_bs
+p1_fetch_user_location_settings.bla
+pbla_1_fetch_user_location_settings.bla
+p1_fetch_user_location_settings.sql
+pquality-unit-2.0.spec.js
+p2020-05-declaraties.csv
+psearch-bak.js
+paaaaa.jpg
+psearch.js
+pchai-bas.JPG
+p chai-cbas.JPG
+pjulien-vibrafoon.JPG
+pfirefox-bak
+pscan 20-05-12 16-53-31.jpg
+pscan 20-05-12 16-54-44.jpg
+pdrums- How'd you get it in your hair?.mp3
+pZorgpolis2020_0166971391_A.pd[f
+pRitmo_Rythm - Bailecito-kOeIIaLbYw4.mp4
+pCHARANGO TOTAL - posicion de los 21 ACORDES para c
+p2009 BACKSPACER[[
+plogin-selections.spec.js
+pBarely Legal - August 2020.pdf
+pvankyo.jpg
+p1_user_printlocation.sql
+pbg.png
+pquality-unit.spec.js
+p1_user_region_location_settings.sql
+puser-settings-co.spec.js
+puser-settings-qu.spec.js
+puser-settings-admin.spec.js
+pfirefox68
+p1-user-details.component.html
+pold-user-details.component.html
+puser-details.component.html
+p7abed178-a20f-4033-b4eb-424356e6cdf0.jpeg
+pcopper3-16okt-26nov-.jpg
+pcopper3-16okt-26nov.jpg
+parbeidsovereenkomst-Chai-Stofkoper.pdf
+ppaspoort Camelia Chamaa.jpg
+pAntecedentenverklaring Camelia Chamaa.pdf
+pWestworld.S01E05.Contrapasso.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv.part
+p2_region_locations.sql
+p2_regions.sql
+p2_user_property.sql
+p2_integration_test_commented.sql
+pvifm-bakk
+pvifmrca
+pvifmrc-bak
+pvifmrc
+p.zshrc-a
+p.zshrc
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/chai/.local/share/vifm/Trash/000_nix-home
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/chai/.local/share/vifm/Trash/000_config
+	/home/chai/.config/i3/config
+t/home/chai/.local/share/vifm/Trash/000_colors
+	/home/chai/.config/vifm/colors
+t/home/chai/.local/share/vifm/Trash/000___MACOSX
+	/home/chai/Downloads/__MACOSX
+t/home/chai/.local/share/vifm/Trash/000_.~lock. MAKAS setlist Bossche Brouwers.docx#
+	/home/chai/Downloads/.~lock. MAKAS setlist Bossche Brouwers.docx#
+t/home/chai/.local/share/vifm/Trash/000_.~lock.Berichtuitwisseling matchen EU-VIS.docx#
+	/home/chai/Downloads/.~lock.Berichtuitwisseling matchen EU-VIS.docx#
+t/home/chai/.local/share/vifm/Trash/000_.~lock.Use_Cases_Registering_application.xlsx#
+	/home/chai/Downloads/.~lock.Use_Cases_Registering_application.xlsx#
+t/home/chai/.local/share/vifm/Trash/000_.~lock.Validations Carib, version Jira 1.0.xlsx#
+	/home/chai/Downloads/.~lock.Validations Carib, version Jira 1.0.xlsx#
+t/home/chai/.local/share/vifm/Trash/000_ MAKAS setlist Bossche Brouwers.docx
+	/home/chai/Downloads/ MAKAS setlist Bossche Brouwers.docx
+t/home/chai/.local/share/vifm/Trash/000_ MAKAS setlist yeni.docx
+	/home/chai/Downloads/ MAKAS setlist yeni.docx
+t/home/chai/.local/share/vifm/Trash/000_HOUSE RIDER OZ January 2020.pdf
+	/home/chai/Downloads/HOUSE RIDER OZ January 2020.pdf
+t/home/chai/.local/share/vifm/Trash/000_tests_to_fix
+	/home/chai/Downloads/tests_to_fix
+t/home/chai/.local/share/vifm/Trash/000_vraag
+	/home/chai/Downloads/vraag
+t/home/chai/.local/share/vifm/Trash/000_user_region
+	/home/chai/Downloads/user_region
+t/home/chai/.local/share/vifm/Trash/000_headed_7d143f909a3a5c61c03ef9771892d3df_1
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/e2e/output/headed_7d143f909a3a5c61c03ef9771892d3df_1
+t/home/chai/.local/share/vifm/Trash/000_headless_c517c9cff4c7f5bdd4c84ba47812620e_1
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/e2e/output/headless_c517c9cff4c7f5bdd4c84ba47812620e_1
+t/home/chai/.local/share/vifm/Trash/000_console-mochawesome.log
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/e2e/output/console-mochawesome.log
+t/home/chai/.local/share/vifm/Trash/000_console.log
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/e2e/output/console.log
+t/home/chai/.local/share/vifm/Trash/001_headed_7d143f909a3a5c61c03ef9771892d3df_1
+	/home/chai/bin/headed_7d143f909a3a5c61c03ef9771892d3df_1
+t/home/chai/.local/share/vifm/Trash/001_console-mochawesome.log
+	/home/chai/bin/console-mochawesome.log
+t/home/chai/.local/share/vifm/Trash/001_console.log
+	/home/chai/bin/console.log
+t/home/chai/.local/share/vifm/Trash/000_headed_aa2d68e1675ce714d57413a6fc4e8e9b_1
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/e2e/output/headed_aa2d68e1675ce714d57413a6fc4e8e9b_1
+t/home/chai/.local/share/vifm/Trash/000_ P1120319.JPG
+	/home/chai/Downloads/ P1120319.JPG
+t/home/chai/.local/share/vifm/Trash/000_abc_verdun.png
+	/home/chai/Nextcloud/Documents/personal/vakantie/abc_verdun.png
+t/home/chai/.local/share/vifm/Trash/000_address.png
+	/home/chai/Nextcloud/Documents/personal/vakantie/address.png
+t/home/chai/.local/share/vifm/Trash/000_ambassade.png
+	/home/chai/Nextcloud/Documents/personal/vakantie/ambassade.png
+t/home/chai/.local/share/vifm/Trash/000_boekingsbevestiging: V9KV2Z.pdf
+	/home/chai/Nextcloud/Documents/personal/vakantie/boekingsbevestiging: V9KV2Z.pdf
+t/home/chai/.local/share/vifm/Trash/000_administrasie
+	/home/chai/code/administrasie
+t/home/chai/.local/share/vifm/Trash/000_archief
+	/home/chai/code/archief
+t/home/chai/.local/share/vifm/Trash/000_Kairos
+	/home/chai/code/Kairos
+t/home/chai/.local/share/vifm/Trash/000_kairos
+	/home/chai/code/kairos
+t/home/chai/.local/share/vifm/Trash/000_multiple-choice-eager
+	/home/chai/code/multiple-choice-eager
+t/home/chai/.local/share/vifm/Trash/000_VID_20200314_140932.mp4
+	/home/chai/Downloads/yup/VID_20200314_140932.mp4
+t/home/chai/.local/share/vifm/Trash/000_Growth_Model_WORTH (1).zip
+	/home/chai/Downloads/Growth_Model_WORTH (1).zip
+t/home/chai/.local/share/vifm/Trash/000_11li
+	/home/chai/Downloads/11li
+t/home/chai/.local/share/vifm/Trash/000_Project Codetheorie
+	/home/chai/Downloads/Project Codetheorie
+t/home/chai/.local/share/vifm/Trash/000_\.pdf
+	/home/chai/Downloads/\.pdf
+t/home/chai/.local/share/vifm/Trash/000_ProtonVPN_server_configs.zip
+	/home/chai/Downloads/ProtonVPN_server_configs.zip
+t/home/chai/.local/share/vifm/Trash/000_jp-01.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-01.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-02.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-02.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-09.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-09.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-10.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-10.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-11.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-11.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-12.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-12.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-13.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-13.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-14.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-14.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-15.protonpvn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-15.protonpvn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-16.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-16.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-17.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-17.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-18.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-18.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-19.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-19.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-20.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-20.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-free-01.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-free-01.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-free-02.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-free-02.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_jp-free-03.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/jp-free-03.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-102.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-102.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-103.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-103.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-104.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-104.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-105.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-105.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-106.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-106.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-107.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-107.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-108.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-108.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-109.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-109.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-110.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-110.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-111.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-111.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-112.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-112.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-113.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-113.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-114.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-114.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-115.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-115.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-116.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-116.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-117.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-117.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-118.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-118.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-119.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-119.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-120.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-120.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-125.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-125.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-126.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-126.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-127.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-127.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-128.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-128.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-129.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-129.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-130.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-130.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-131.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-131.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-132.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-132.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-133.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-133.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-134.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-134.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-135.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-135.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-136.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-136.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-137.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-137.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-138.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-138.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-139.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-139.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-140.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-140.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-free-01.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-free-01.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-free-02.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/nl-free-02.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-102.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-102.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-103.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-103.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-104.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-104.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-105.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-105.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-106.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-106.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-107.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-107.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-108.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-108.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-113.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-113.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-114.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-114.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-115.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-115.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-116.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-ca-116.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-free-01.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-free-01.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-free-02.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-free-02.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-il-105.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-il-105.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-il-106.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-il-106.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-il-107.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-il-107.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-il-108.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-il-108.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-tx-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-tx-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-tx-102.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-tx-102.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-tx-103.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-tx-103.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-tx-104.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-tx-104.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-tx-105.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-tx-105.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-tx-106.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-tx-106.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-tx-107.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-tx-107.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-tx-108.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-tx-108.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-102.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-102.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-103.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-103.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-104.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-104.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-105.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-105.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-106.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-106.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-107.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-107.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-108.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-108.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-109.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-109.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-110.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-110.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-111.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-111.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-va-112.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/vpns/us-va-112.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_jp-09.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/jp-09.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_jp-10.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/jp-10.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_jp-11.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/jp-11.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_jp-12.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/jp-12.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_jp-free-01.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/jp-free-01.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_jp-free-02.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/jp-free-02.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_jp-free-03.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/jp-free-03.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-102.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-102.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-103.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-103.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-104.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-104.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-109.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-109.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-110.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-110.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-111.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-111.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-112.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-112.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-113.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-113.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-114.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-114.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-115.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-115.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-116.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-116.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-117.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-117.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-118.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-118.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-119.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-119.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-120.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-120.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-125.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-125.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-126.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-126.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-127.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-127.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-128.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-128.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-129.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-129.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-130.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-130.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-131.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-131.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-132.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-132.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-133.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-133.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-134.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-134.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-135.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-135.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-136.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-136.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-free-01.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-free-01.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_nl-free-02.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-free-02.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_nl-free-03.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/nl-free-03.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-ca-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-ca-102.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-102.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-ca-103.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-103.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-ca-104.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-104.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-ca-105.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-105.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-ca-106.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-106.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-ca-107.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-107.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-ca-108.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-108.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-117.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-117.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-118.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-118.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-119.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-119.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ca-120.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ca-120.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-free-01.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-free-01.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-free-02.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-free-02.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-free-03.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-free-03.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-il-109.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-il-109.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-il-110.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-il-110.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-il-111.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-il-111.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-il-112.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-il-112.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_us-ny-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-ny-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-tx-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-tx-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-tx-102.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-tx-102.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-tx-103.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-tx-103.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-tx-104.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-tx-104.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-tx-105.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-tx-105.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-tx-106.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-tx-106.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-tx-107.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-tx-107.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-tx-108.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-tx-108.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-101.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-101.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-102.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-102.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-103.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-103.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-104.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-104.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-105.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-105.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-106.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-106.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-107.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-107.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-108.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-108.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-109.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-109.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-110.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-110.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-111.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-111.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/001_us-va-112.protonvpn.com.udp.ovpn
+	/home/chai/Downloads/us-va-112.protonvpn.com.udp.ovpn
+t/home/chai/.local/share/vifm/Trash/000_donnie-brasco-english-yify-18025.zip
+	/home/chai/Downloads/donnie-brasco-english-yify-18025.zip
+t/home/chai/.local/share/vifm/Trash/000_fear-and-loathing-in-las-vegas-english-yify-791.zip
+	/home/chai/Downloads/fear-and-loathing-in-las-vegas-english-yify-791.zip
+t/home/chai/.local/share/vifm/Trash/000_snakeintheeaglesshadow1978720pblurayx264ytsag-english-166684.zip
+	/home/chai/Downloads/snakeintheeaglesshadow1978720pblurayx264ytsag-english-166684.zip
+t/home/chai/.local/share/vifm/Trash/000_x-men-origins-wolverine-english-yify-7533.zip
+	/home/chai/Downloads/x-men-origins-wolverine-english-yify-7533.zip
+t/home/chai/.local/share/vifm/Trash/000_yourname2016720pblurayx264ytsag-english-121406.zip
+	/home/chai/Downloads/yourname2016720pblurayx264ytsag-english-121406.zip
+t/home/chai/.local/share/vifm/Trash/000_Donnie.Brasco.1997.1080p.BluRay.x264.YIFY.srt
+	/home/chai/Downloads/Donnie.Brasco.1997.1080p.BluRay.x264.YIFY.srt
+t/home/chai/.local/share/vifm/Trash/000_English.srt
+	/home/chai/Downloads/English.srt
+t/home/chai/.local/share/vifm/Trash/000_X-Men.Origins.Wolverine.2009.1080p.BrRip.x264.YIFY.srt
+	/home/chai/Downloads/X-Men.Origins.Wolverine.2009.1080p.BrRip.x264.YIFY.srt
+t/home/chai/.local/share/vifm/Trash/000_Your.Name.2017.BDRip.XviD.AC3-EVO.srt
+	/home/chai/Downloads/Your.Name.2017.BDRip.XviD.AC3-EVO.srt
+t/home/chai/.local/share/vifm/Trash/000_fear-and-loathing-in-las-vegas-yify-english.srt
+	/home/chai/Downloads/fear-and-loathing-in-las-vegas-yify-english.srt
+t/home/chai/.local/share/vifm/Trash/000_generated-sources
+	/home/chai/code/Kairos/src/integration-tests/generated-sources
+t/home/chai/.local/share/vifm/Trash/000_thehobbitthedesolationofsmaug2013720pblurayx264ytsag-english-133138(1).zip
+	/home/chai/Downloads/thehobbitthedesolationofsmaug2013720pblurayx264ytsag-english-133138(1).zip
+t/home/chai/.local/share/vifm/Trash/000_aaaaa.jpg
+	/home/chai/Downloads/aaaaa.jpg
+t/home/chai/.local/share/vifm/Trash/000_aaaaaaa.jpg
+	/home/chai/Downloads/aaaaaaa.jpg
+t/home/chai/.local/share/vifm/Trash/000_aa.jpg
+	/home/chai/Downloads/aa.jpg
+t/home/chai/.local/share/vifm/Trash/000_scan 20-05-12 16-53-31.jpg
+	/home/chai/Nextcloud/Documents/nerdspul/werkspul/Fotos/scan 20-05-12 16-53-31.jpg
+t/home/chai/.local/share/vifm/Trash/000_scan 20-05-12 16-54-44.jpg
+	/home/chai/Nextcloud/Documents/nerdspul/werkspul/Fotos/scan 20-05-12 16-54-44.jpg
+t/home/chai/.local/share/vifm/Trash/000_kraanbezoek-2.jpg
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/kraanbezoek-2.jpg
+t/home/chai/.local/share/vifm/Trash/000_kraanbezoek-3.jpg
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/kraanbezoek-3.jpg
+t/home/chai/.local/share/vifm/Trash/000_kraanbezoek-4.jpg
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/kraanbezoek-4.jpg
+t/home/chai/.local/share/vifm/Trash/000_kraanbezoek-18.jpg
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/kraanbezoek-18.jpg
+t/home/chai/.local/share/vifm/Trash/000_kraanbezoek-19.jpg
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/kraanbezoek-19.jpg
+t/home/chai/.local/share/vifm/Trash/000_kraanbezoek-20.jpg
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/kraanbezoek-20.jpg
+t/home/chai/.local/share/vifm/Trash/000_family-laws.pdf
+	/home/chai/Downloads/family-laws.pdf
+t/home/chai/.local/share/vifm/Trash/000_009 Current - Kairos II E2E flow.png
+	/home/chai/Downloads/009 Current - Kairos II E2E flow.png
+t/home/chai/.local/share/vifm/Trash/000_009.1.1 Current + Soll Carib - Kairos II E2E flow.png
+	/home/chai/Downloads/009.1.1 Current + Soll Carib - Kairos II E2E flow.png
+t/home/chai/.local/share/vifm/Trash/000_yogaoutlet.png
+	/home/chai/Downloads/yogaoutlet.png
+t/home/chai/.local/share/vifm/Trash/000_zoom.png
+	/home/chai/Downloads/zoom.png
+t/home/chai/.local/share/vifm/Trash/000_Bill.and.Teds.Excellent.Adventure.1989.1080p.BrRip.x264.YIFY.srt
+	/home/chai/Downloads/Bill.and.Teds.Excellent.Adventure.1989.1080p.BrRip.x264.YIFY.srt
+t/home/chai/.local/share/vifm/Trash/000_Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.HDRip.XviD.AC3-EVO.srt
+	/home/chai/Downloads/Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.HDRip.XviD.AC3-EVO.srt
+t/home/chai/.local/share/vifm/Trash/000_Ford v Ferrari (2019) English HDRip.srt
+	/home/chai/Downloads/Ford v Ferrari (2019) English HDRip.srt
+t/home/chai/.local/share/vifm/Trash/000_Logan.2017.720p.BluRay.x264-YTS.AG.srt
+	/home/chai/Downloads/Logan.2017.720p.BluRay.x264-YTS.AG.srt
+t/home/chai/.local/share/vifm/Trash/000_Pulp.Fiction.1994.720p.BrRip.x264.YIFY.srt
+	/home/chai/Downloads/Pulp.Fiction.1994.720p.BrRip.x264.YIFY.srt
+t/home/chai/.local/share/vifm/Trash/000_The.Hobbit.An.Unexpected.Journey.2012.720p.BRrip.x264.GAZ.YIFY.srt
+	/home/chai/Downloads/The.Hobbit.An.Unexpected.Journey.2012.720p.BRrip.x264.GAZ.YIFY.srt
+t/home/chai/.local/share/vifm/Trash/000_The.Hobbit.The.Desolation.of.Smaug.2013.EXTENDED.720p.BluRay.x264-GECKOS.srt
+	/home/chai/Downloads/The.Hobbit.The.Desolation.of.Smaug.2013.EXTENDED.720p.BluRay.x264-GECKOS.srt
+t/home/chai/.local/share/vifm/Trash/000_The.Road.To.El.Dorado.2000.720p.BluRay.x264-[YTS.AM].srt
+	/home/chai/Downloads/The.Road.To.El.Dorado.2000.720p.BluRay.x264-[YTS.AM].srt
+t/home/chai/.local/share/vifm/Trash/000_The.Wolverine.2013.1080p.BluRay.x264.YIFY.srt
+	/home/chai/Downloads/The.Wolverine.2013.1080p.BluRay.x264.YIFY.srt
+t/home/chai/.local/share/vifm/Trash/000_X-Men.2000.1080p.BrRip.x264.YIFY.srt
+	/home/chai/Downloads/X-Men.2000.1080p.BrRip.x264.YIFY.srt
+t/home/chai/.local/share/vifm/Trash/000_parasite-2019-bluray-720p-yts-yify-1578680131.srt
+	/home/chai/Downloads/parasite-2019-bluray-720p-yts-yify-1578680131.srt
+t/home/chai/.local/share/vifm/Trash/000_pulp.srt
+	/home/chai/Downloads/pulp.srt
+t/home/chai/.local/share/vifm/Trash/000_pulp2.srt
+	/home/chai/Downloads/pulp2.srt
+t/home/chai/.local/share/vifm/Trash/000_pulp3.srt
+	/home/chai/Downloads/pulp3.srt
+t/home/chai/.local/share/vifm/Trash/000_the-hobbit-the-battle-of-the-five-armies.720p.BluRay.x264.YIFY.srt
+	/home/chai/Downloads/the-hobbit-the-battle-of-the-five-armies.720p.BluRay.x264.YIFY.srt
+t/home/chai/.local/share/vifm/Trash/000_the-hobbit-the-desolation-of-smaug-yify-english.srt
+	/home/chai/Downloads/the-hobbit-the-desolation-of-smaug-yify-english.srt
+t/home/chai/.local/share/vifm/Trash/000_the-medallion-yify-english.srt
+	/home/chai/Downloads/the-medallion-yify-english.srt
+t/home/chai/.local/share/vifm/Trash/000_theroad.srt
+	/home/chai/Downloads/theroad.srt
+t/home/chai/.local/share/vifm/Trash/000_isubtitles.net.txt
+	/home/chai/Downloads/isubtitles.net.txt
+t/home/chai/.local/share/vifm/Trash/000_security-spul.txt
+	/home/chai/Downloads/security-spul.txt
+t/home/chai/.local/share/vifm/Trash/000_bill-teds-excellent-adventure-english-yify-20914.zip
+	/home/chai/Downloads/bill-teds-excellent-adventure-english-yify-20914.zip
+t/home/chai/.local/share/vifm/Trash/000_birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn-english-2169084.zip
+	/home/chai/Downloads/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn-english-2169084.zip
+t/home/chai/.local/share/vifm/Trash/000_english-subtitles-english-167887.zip
+	/home/chai/Downloads/english-subtitles-english-167887.zip
+t/home/chai/.local/share/vifm/Trash/000_fordvferrari2019720pblurayx264ytsag-english-162487.zip
+	/home/chai/Downloads/fordvferrari2019720pblurayx264ytsag-english-162487.zip
+t/home/chai/.local/share/vifm/Trash/000_logan-english-113801.zip
+	/home/chai/Downloads/logan-english-113801.zip
+t/home/chai/.local/share/vifm/Trash/000_pulp-fiction-english-yify-7765.zip
+	/home/chai/Downloads/pulp-fiction-english-yify-7765.zip
+t/home/chai/.local/share/vifm/Trash/000_pulpfiction1994720pblurayx264ytsag-english-167886.zip
+	/home/chai/Downloads/pulpfiction1994720pblurayx264ytsag-english-167886.zip
+t/home/chai/.local/share/vifm/Trash/000_pulpfiction19941080p720pblurayx264ytsag-english-148546.zip
+	/home/chai/Downloads/pulpfiction19941080p720pblurayx264ytsag-english-148546.zip
+t/home/chai/.local/share/vifm/Trash/000_the-hobbit-an-unexpected-journey-english-yify-412.zip
+	/home/chai/Downloads/the-hobbit-an-unexpected-journey-english-yify-412.zip
+t/home/chai/.local/share/vifm/Trash/000_the-hobbit-the-battle-of-the-five-armies-english-yify-40696.zip
+	/home/chai/Downloads/the-hobbit-the-battle-of-the-five-armies-english-yify-40696.zip
+t/home/chai/.local/share/vifm/Trash/000_the-hobbit-the-desolation-of-smaug-english-yify-9349.zip
+	/home/chai/Downloads/the-hobbit-the-desolation-of-smaug-english-yify-9349.zip
+t/home/chai/.local/share/vifm/Trash/000_the-medallion-english-yify-766.zip
+	/home/chai/Downloads/the-medallion-english-yify-766.zip
+t/home/chai/.local/share/vifm/Trash/000_the-road-to-el-dorado-2000-english-141514.zip
+	/home/chai/Downloads/the-road-to-el-dorado-2000-english-141514.zip
+t/home/chai/.local/share/vifm/Trash/000_the-wolverine-english-yify-1.zip
+	/home/chai/Downloads/the-wolverine-english-yify-1.zip
+t/home/chai/.local/share/vifm/Trash/000_thehobbitthedesolationofsmaug2013720pblurayx264ytsag-english-133138.zip
+	/home/chai/Downloads/thehobbitthedesolationofsmaug2013720pblurayx264ytsag-english-133138.zip
+t/home/chai/.local/share/vifm/Trash/000_theroadtoeldorado2000720pblurayx264-ytsam-english-140289.zip
+	/home/chai/Downloads/theroadtoeldorado2000720pblurayx264-ytsam-english-140289.zip
+t/home/chai/.local/share/vifm/Trash/000_x-men-english-yify-7012.zip
+	/home/chai/Downloads/x-men-english-yify-7012.zip
+t/home/chai/.local/share/vifm/Trash/000_meenemen_beirut
+	/home/chai/Downloads/meenemen_beirut
+t/home/chai/.local/share/vifm/Trash/000_rec_plan
+	/home/chai/Downloads/rec_plan
+t/home/chai/.local/share/vifm/Trash/000_tday
+	/home/chai/Downloads/tday
+t/home/chai/.local/share/vifm/Trash/000_test_notes
+	/home/chai/Downloads/test_notes
+t/home/chai/.local/share/vifm/Trash/000_uitnodiging
+	/home/chai/Downloads/uitnodiging
+t/home/chai/.local/share/vifm/Trash/000_josefien
+	/home/chai/Downloads/josefien
+t/home/chai/.local/share/vifm/Trash/000_db-spul
+	/home/chai/Downloads/db-spul
+t/home/chai/.local/share/vifm/Trash/000_e1490c04-5162-4dcd-b1bc-8f479413fd78.pdf
+	/home/chai/Nextcloud/Documents/personal/geldspul/telfort/facturen/2020/e1490c04-5162-4dcd-b1bc-8f479413fd78.pdf
+t/home/chai/.local/share/vifm/Trash/000_Brrrrains.mp3
+	/home/chai/Downloads/Brrrrains.mp3
+t/home/chai/.local/share/vifm/Trash/000_Coconut Holiday (final mp3).mp3
+	/home/chai/Downloads/Coconut Holiday (final mp3).mp3
+t/home/chai/.local/share/vifm/Trash/000_01 What A Little Smile Can Do (final mp3).mp3
+	/home/chai/Downloads/01 What A Little Smile Can Do (final mp3).mp3
+t/home/chai/.local/share/vifm/Trash/000_bla
+	/home/chai/Downloads/bla
+t/home/chai/.local/share/vifm/Trash/000_Bossa From The Andes.aiff
+	/home/chai/Downloads/Bossa From The Andes.aiff
+t/home/chai/.local/share/vifm/Trash/000_Camba Girl.aiff
+	/home/chai/Downloads/Camba Girl.aiff
+t/home/chai/.local/share/vifm/Trash/000_Canto De Alondra.aiff
+	/home/chai/Downloads/Canto De Alondra.aiff
+t/home/chai/.local/share/vifm/Trash/000_Duts In The Wind.aiff
+	/home/chai/Downloads/Duts In The Wind.aiff
+t/home/chai/.local/share/vifm/Trash/000_Eva.aiff
+	/home/chai/Downloads/Eva.aiff
+t/home/chai/.local/share/vifm/Trash/000_Going Back To My Land.aiff
+	/home/chai/Downloads/Going Back To My Land.aiff
+t/home/chai/.local/share/vifm/Trash/000_My Name It_s Cumbia.aiff
+	/home/chai/Downloads/My Name It_s Cumbia.aiff
+t/home/chai/.local/share/vifm/Trash/000_Pampa Lirima.aiff
+	/home/chai/Downloads/Pampa Lirima.aiff
+t/home/chai/.local/share/vifm/Trash/000_Sunrice.aiff
+	/home/chai/Downloads/Sunrice.aiff
+t/home/chai/.local/share/vifm/Trash/000_Tears In Heaven.aiff
+	/home/chai/Downloads/Tears In Heaven.aiff
+t/home/chai/.local/share/vifm/Trash/000_The Way Of The Llamas.aiff
+	/home/chai/Downloads/The Way Of The Llamas.aiff
+t/home/chai/.local/share/vifm/Trash/000_Valle De Lo Alto.aiff
+	/home/chai/Downloads/Valle De Lo Alto.aiff
+t/home/chai/.local/share/vifm/Trash/000_ApplicantsImages.zip
+	/home/chai/Nextcloud/Item pictures/ApplicantsImages.zip
+t/home/chai/.local/share/vifm/Trash/000_phonic.png
+	/home/chai/Downloads/phonic.png
+t/home/chai/.local/share/vifm/Trash/000_oven.png
+	/home/chai/Downloads/oven.png
+t/home/chai/.local/share/vifm/Trash/000_pt2.png
+	/home/chai/Downloads/pt2.png
+t/home/chai/.local/share/vifm/Trash/000_udemy_factuur.png
+	/home/chai/Downloads/udemy_factuur.png
+t/home/chai/.local/share/vifm/Trash/000_udemy_shoppingcart.png
+	/home/chai/Downloads/udemy_shoppingcart.png
+t/home/chai/.local/share/vifm/Trash/000_unnamed.png
+	/home/chai/Downloads/unnamed.png
+t/home/chai/.local/share/vifm/Trash/000_Avatar.ECE.2009.srt
+	/home/chai/Downloads/Avatar.ECE.2009.srt
+t/home/chai/.local/share/vifm/Trash/000_Miss Congeniality 2000 Blu-ray 1080p x264 DTS-HighCode.srt
+	/home/chai/Downloads/Miss Congeniality 2000 Blu-ray 1080p x264 DTS-HighCode.srt
+t/home/chai/.local/share/vifm/Trash/000_Rekeningafschrift 201908 - Betaalrekening NL23KNAB0256693986.pdf
+	/home/chai/Downloads/Rekeningafschrift 201908 - Betaalrekening NL23KNAB0256693986.pdf
+t/home/chai/.local/share/vifm/Trash/000_@ home en outdoor GYM 1.0.pdf
+	/home/chai/Downloads/@ home en outdoor GYM 1.0.pdf
+t/home/chai/.local/share/vifm/Trash/000_2019-12-09-195849_1920x1080_scrot.png
+	/home/chai/Pictures/2019-12-09-195849_1920x1080_scrot.png
+t/home/chai/.local/share/vifm/Trash/000_2020-02-05-123254_1920x1080_scrot.png
+	/home/chai/Pictures/2020-02-05-123254_1920x1080_scrot.png
+t/home/chai/.local/share/vifm/Trash/000_2020-06-24-132638_1920x1800_scrot.png
+	/home/chai/Pictures/2020-06-24-132638_1920x1800_scrot.png
+t/home/chai/.local/share/vifm/Trash/000_2020-06-30-142442_1920x1800_scrot.png
+	/home/chai/Pictures/2020-06-30-142442_1920x1800_scrot.png
+t/home/chai/.local/share/vifm/Trash/000_2020-07-02-235122_1920x1800_scrot.png
+	/home/chai/Pictures/2020-07-02-235122_1920x1800_scrot.png
+t/home/chai/.local/share/vifm/Trash/000_2020-07-05-152126_1920x1800_scrot.png
+	/home/chai/Pictures/2020-07-05-152126_1920x1800_scrot.png
+t/home/chai/.local/share/vifm/Trash/000_2020-07-06-225440_1920x1800_scrot.png
+	/home/chai/Pictures/2020-07-06-225440_1920x1800_scrot.png
+t/home/chai/.local/share/vifm/Trash/000_Escape from Pretoria (2020).srt
+	/home/chai/Downloads/Escape from Pretoria (2020).srt
+t/home/chai/.local/share/vifm/Trash/000_Escape from Pretoria 2020 1080p BluRay REMUX AVC DTS-HD.MA5.1-iFT English.zip
+	/home/chai/Downloads/Escape from Pretoria 2020 1080p BluRay REMUX AVC DTS-HD.MA5.1-iFT English.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.1080p.WEBRip.x264-RARBG English.zip
+	/home/chai/Downloads/Escape.from.Pretoria.2020.1080p.WEBRip.x264-RARBG English.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.1080p.WEB-DL.DD5.1.H264-FGT English.zip
+	/home/chai/Downloads/Escape.from.Pretoria.2020.1080p.WEB-DL.DD5.1.H264-FGT English.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape from Pretoria (2020) 720p.BluRay.x264 [TRiNiTY] English.zip
+	/home/chai/Downloads/Escape from Pretoria (2020) 720p.BluRay.x264 [TRiNiTY] English.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape from Pretoria (2020) 720p.BluRay.x264 [TRiNiTY]-HI.srt
+	/home/chai/Downloads/Escape from Pretoria (2020) 720p.BluRay.x264 [TRiNiTY]-HI.srt
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.1080p.WEB-DL.DD5.1.H264-FGT.srt
+	/home/chai/Downloads/Escape.from.Pretoria.2020.1080p.WEB-DL.DD5.1.H264-FGT.srt
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.1080p.BluRay.H264.AAC-RARBG_English.srt
+	/home/chai/Downloads/Escape.from.Pretoria.2020.1080p.BluRay.H264.AAC-RARBG_English.srt
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.1080p.BluRay.H264.AAC-RARBG_English English.zip
+	/home/chai/Downloads/Escape.from.Pretoria.2020.1080p.BluRay.H264.AAC-RARBG_English English.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.720p.BluRay.H264.AAC-RARBG_English.srt
+	/home/chai/Downloads/Escape.from.Pretoria.2020.720p.BluRay.H264.AAC-RARBG_English.srt
+t/home/chai/.local/share/vifm/Trash/000_A.Star.is.Born.2018.WEB-DL.x264-FGT.srt
+	/home/chai/Downloads/A.Star.is.Born.2018.WEB-DL.x264-FGT.srt
+t/home/chai/.local/share/vifm/Trash/000_Mad.Max.1979.1080p.BRrip.x264.YIFY.english.srt
+	/home/chai/Downloads/Mad.Max.1979.1080p.BRrip.x264.YIFY.english.srt
+t/home/chai/.local/share/vifm/Trash/000_Shaolin Soccer.srt
+	/home/chai/Downloads/Shaolin Soccer.srt
+t/home/chai/.local/share/vifm/Trash/000_avatar-english-yify-8735.zip
+	/home/chai/Downloads/avatar-english-yify-8735.zip
+t/home/chai/.local/share/vifm/Trash/000_mad-max-english-yify-8968.zip
+	/home/chai/Downloads/mad-max-english-yify-8968.zip
+t/home/chai/.local/share/vifm/Trash/000_miss-congeniality-2000-blu-ray-1080p-x264-dts-highcode-english-132451.zip
+	/home/chai/Downloads/miss-congeniality-2000-blu-ray-1080p-x264-dts-highcode-english-132451.zip
+t/home/chai/.local/share/vifm/Trash/000_shaolinsoccer2001720pblurayx264ytsag-english-131003.zip
+	/home/chai/Downloads/shaolinsoccer2001720pblurayx264ytsag-english-131003.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape.From.Pretoria.2020.720p.WEB-DL.x264-HD3D.srt
+	/home/chai/Downloads/Escape.From.Pretoria.2020.720p.WEB-DL.x264-HD3D.srt
+t/home/chai/.local/share/vifm/Trash/000_Escape.From.Pretoria.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].hi.srt
+	/home/chai/Downloads/Escape.From.Pretoria.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX].hi.srt
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.720p.BluRay.x264-DRONES-HI.srt
+	/home/chai/Downloads/Escape.from.Pretoria.2020.720p.BluRay.x264-DRONES-HI.srt
+t/home/chai/.local/share/vifm/Trash/000_Escape.From.Pretoria.2020.720p.WEB-DL.x264-HD3D English.zip
+	/home/chai/Downloads/Escape.From.Pretoria.2020.720p.WEB-DL.x264-HD3D English.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape.From.Pretoria.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX] English.zip
+	/home/chai/Downloads/Escape.From.Pretoria.2020.1080p.BluRay.x264.AAC5.1-[YTS.MX] English.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.720p.BluRay.H264.AAC-RARBG_English English.zip
+	/home/chai/Downloads/Escape.from.Pretoria.2020.720p.BluRay.H264.AAC-RARBG_English English.zip
+t/home/chai/.local/share/vifm/Trash/000_Escape.from.Pretoria.2020.BDRip.x264-DRONES English.zip
+	/home/chai/Downloads/Escape.from.Pretoria.2020.BDRip.x264-DRONES English.zip
+t/home/chai/.local/share/vifm/Trash/000_X-AIR-Edit
+	/home/chai/Downloads/X-AIR-Edit
+t/home/chai/.local/share/vifm/Trash/000_X-AIR-EDIT_V1.5_Releasenotes.pdf
+	/home/chai/Downloads/X-AIR-EDIT_V1.5_Releasenotes.pdf
+t/home/chai/.local/share/vifm/Trash/000_the-terminator-yify-english.srt
+	/home/chai/Downloads/the-terminator-yify-english.srt
+t/home/chai/.local/share/vifm/Trash/000_the-terminator-english-yify-894.zip
+	/home/chai/Downloads/the-terminator-english-yify-894.zip
+t/home/chai/.local/share/vifm/Trash/000_Meetinglijst (2019-9-17).pdf
+	/home/chai/Nextcloud/Documents/personal/sla/Meetinglijst (2019-9-17).pdf
+t/home/chai/.local/share/vifm/Trash/000_'Connected but No Internet Access' Windows 10 FIX!! [2018]-sCSJLT-NBWw.mkv
+	/home/chai/Downloads/yt/Ivan-Deiana/'Connected but No Internet Access' Windows 10 FIX!! [2018]-sCSJLT-NBWw.mkv
+t/home/chai/.local/share/vifm/Trash/000_Kinesio tape para corregir posición de tobillo-N9zNelRzPZo.mkv
+	/home/chai/Downloads/yt/Ivan-Deiana/Kinesio tape para corregir posición de tobillo-N9zNelRzPZo.mkv
+t/home/chai/.local/share/vifm/Trash/000_Colocar imágenes en Indesign rápidamente-6CD11_b1B-0.mp4
+	/home/chai/Downloads/yt/Ivan-Deiana/Colocar imágenes en Indesign rápidamente-6CD11_b1B-0.mp4
+t/home/chai/.local/share/vifm/Trash/000_Miroslav Vitous - Infinite Search (1969)
+	/home/chai/Downloads/trnts/Miroslav Vitous - Infinite Search (1969)
+t/home/chai/.local/share/vifm/Trash/000_Mussorgsky, Ravel, Philharmonia Orchestra, Lorin Maazel - Pictures At An Exhibition, Boléro, Pavane Pour Une Infante Défunte, La Valse
+	/home/chai/Downloads/trnts/Mussorgsky, Ravel, Philharmonia Orchestra, Lorin Maazel - Pictures At An Exhibition, Boléro, Pavane Pour Une Infante Défunte, La Valse
+t/home/chai/.local/share/vifm/Trash/000_PEARL JAM Discography STUDiO [2020] 11 CD FLAC
+	/home/chai/Downloads/trnts/PEARL JAM Discography STUDiO [2020] 11 CD FLAC
+t/home/chai/.local/share/vifm/Trash/000_Queens Of The Stone Age - Songs For The Deaf
+	/home/chai/Downloads/trnts/Queens Of The Stone Age - Songs For The Deaf
+t/home/chai/.local/share/vifm/Trash/000_Stravinsky - Le Sacre Du Printemps (The Rite Of Spring - The Cleveland Orchestra - Lorin Maazel - Digital Vinyl 1980
+	/home/chai/Downloads/trnts/Stravinsky - Le Sacre Du Printemps (The Rite Of Spring - The Cleveland Orchestra - Lorin Maazel - Digital Vinyl 1980
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - 100% Billie Eilish (2020) [CBR320] vtwin88cube
+	/home/chai/Downloads/trnts/Billie Eilish - 100% Billie Eilish (2020) [CBR320] vtwin88cube
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - Billie Eilish Live at the Steve Jobs Theater (2019) [320kbps] {YMB}
+	/home/chai/Downloads/trnts/Billie Eilish - Billie Eilish Live at the Steve Jobs Theater (2019) [320kbps] {YMB}
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - Essentials (2020) [320KBPS] {YMB}
+	/home/chai/Downloads/trnts/Billie Eilish - Essentials (2020) [320KBPS] {YMB}
+t/home/chai/.local/share/vifm/Trash/000_Bob Marley & The Wailers - Live At The Rainbow, 4th June 1977 (Remastered 2020) [MP3 320] - Hellavibes
+	/home/chai/Downloads/trnts/Bob Marley & The Wailers - Live At The Rainbow, 4th June 1977 (Remastered 2020) [MP3 320] - Hellavibes
+t/home/chai/.local/share/vifm/Trash/000_Charles Mingus - In A Soulful Mood (1960)
+	/home/chai/Downloads/trnts/Charles Mingus - In A Soulful Mood (1960)
+t/home/chai/.local/share/vifm/Trash/000_Debussy - Images Pour Orchestre  Prélude A L'Après - Midi D'un Faune - London Symphony Orchestra, Andre Previn
+	/home/chai/Downloads/trnts/Debussy - Images Pour Orchestre  Prélude A L'Après - Midi D'un Faune - London Symphony Orchestra, Andre Previn
+t/home/chai/.local/share/vifm/Trash/000_Duke Ellington & John Coltrane - Duke Ellington & John Coltrane (1962)
+	/home/chai/Downloads/trnts/Duke Ellington & John Coltrane - Duke Ellington & John Coltrane (1962)
+t/home/chai/.local/share/vifm/Trash/000_Gladiator 2000 EXTENDED 720p BluRay HEVC H265 BONE.mp4
+	/home/chai/Downloads/trnts/Gladiator 2000 EXTENDED 720p BluRay HEVC H265 BONE.mp4
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - 100% Billie Eilish (2020) [CBR320] vtwin88cube.torrent
+	/home/chai/Downloads/trnts/Billie Eilish - 100% Billie Eilish (2020) [CBR320] vtwin88cube.torrent
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - Essentials (2020) [320KBPS] {YMB}⭐.torrent
+	/home/chai/Downloads/trnts/Billie Eilish - Essentials (2020) [320KBPS] {YMB}⭐.torrent
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - Live at Third Man Records (2019) (320) [DJ].torrent
+	/home/chai/Downloads/trnts/Billie Eilish - Live at Third Man Records (2019) (320) [DJ].torrent
+t/home/chai/.local/share/vifm/Trash/000_Gladiator 2000 EXTENDED 720p BluRay HEVC H265 BONE.torrent
+	/home/chai/Downloads/trnts/Gladiator 2000 EXTENDED 720p BluRay HEVC H265 BONE.torrent
+t/home/chai/.local/share/vifm/Trash/000_Alpha Blondy - Human Race [320 KBPS][2018][pradyutvam].torrent
+	/home/chai/Downloads/trnts/msc/Alpha Blondy - Human Race [320 KBPS][2018][pradyutvam].torrent
+t/home/chai/.local/share/vifm/Trash/000_Amy Winehouse - Partial discography (2003-2015) (Opus _128 & 1 in mp3 _128) [Only2try].torrent
+	/home/chai/Downloads/trnts/msc/Amy Winehouse - Partial discography (2003-2015) (Opus _128 & 1 in mp3 _128) [Only2try].torrent
+t/home/chai/.local/share/vifm/Trash/000_Charles Mingus - In A Soulful Mood (1960) [EAC-FLAC].torrent
+	/home/chai/Downloads/trnts/msc/Charles Mingus - In A Soulful Mood (1960) [EAC-FLAC].torrent
+t/home/chai/.local/share/vifm/Trash/000_Debussy - Images Pour Orchestre  Prélude A L'Après - Midi D'un Faune - London Symphony Orchestra, Andre Previn Vinyl.torrent
+	/home/chai/Downloads/trnts/msc/Debussy - Images Pour Orchestre  Prélude A L'Après - Midi D'un Faune - London Symphony Orchestra, Andre Previn Vinyl.torrent
+t/home/chai/.local/share/vifm/Trash/000_Duke Ellington & John Coltrane - Duke Ellington & Coltrane (1962) [EAC-FLAC].torrent
+	/home/chai/Downloads/trnts/msc/Duke Ellington & John Coltrane - Duke Ellington & Coltrane (1962) [EAC-FLAC].torrent
+t/home/chai/.local/share/vifm/Trash/000_Earth Wind & Fire - Greatest Hits (1998) [FLAC] [DJ].torrent
+	/home/chai/Downloads/trnts/msc/Earth Wind & Fire - Greatest Hits (1998) [FLAC] [DJ].torrent
+t/home/chai/.local/share/vifm/Trash/000_Miroslav Vitous - Infinite Search (1969) [EAC-FLAC].torrent
+	/home/chai/Downloads/trnts/msc/Miroslav Vitous - Infinite Search (1969) [EAC-FLAC].torrent
+t/home/chai/.local/share/vifm/Trash/000_Mussorgsky, Ravel, Philharmonia Orchestra, Lorin Maazel - Pictures At An Exhibition, Boléro, Pavane Pour Une Infante Défunte, La Valse.torrent
+	/home/chai/Downloads/trnts/msc/Mussorgsky, Ravel, Philharmonia Orchestra, Lorin Maazel - Pictures At An Exhibition, Boléro, Pavane Pour Une Infante Défunte, La Valse.torrent
+t/home/chai/.local/share/vifm/Trash/000_PEARL JAM Discography STUDiO [2020] 11 CD FLAC.torrent
+	/home/chai/Downloads/trnts/msc/PEARL JAM Discography STUDiO [2020] 11 CD FLAC.torrent
+t/home/chai/.local/share/vifm/Trash/000_Queens Of The Stone Age - Songs For The Deaf (sq@TGx).torrent
+	/home/chai/Downloads/trnts/msc/Queens Of The Stone Age - Songs For The Deaf (sq@TGx).torrent
+t/home/chai/.local/share/vifm/Trash/000_Stravinsky - Le Sacre Du Printemps (The Rite Of Spring - The Cleveland Orchestra - Lorin Maazel - Digital Vinyl 1980.torrent
+	/home/chai/Downloads/trnts/msc/Stravinsky - Le Sacre Du Printemps (The Rite Of Spring - The Cleveland Orchestra - Lorin Maazel - Digital Vinyl 1980.torrent
+t/home/chai/.local/share/vifm/Trash/000_address-makhoul.png
+	/home/chai/Nextcloud/Documents/personal/vakantie/address-makhoul.png
+t/home/chai/.local/share/vifm/Trash/000_hamzatul-wasl-14.png
+	/home/chai/Nextcloud/Documents/personal/vakantie/hamzatul-wasl-14.png
+t/home/chai/.local/share/vifm/Trash/000_ticket-20-3-4.png
+	/home/chai/Nextcloud/Documents/personal/vakantie/ticket-20-3-4.png
+t/home/chai/.local/share/vifm/Trash/000_Bob Marley & The Wailers - Legend (2020) - 7.1 Multichannel 192kHz-24bit High-Resolution Audio [SexySadist]
+	/home/chai/Downloads/trnts/Bob Marley & The Wailers - Legend (2020) - 7.1 Multichannel 192kHz-24bit High-Resolution Audio [SexySadist]
+t/home/chai/.local/share/vifm/Trash/000_Alpha Blondy - Human Race (320)
+	/home/chai/Downloads/trnts/Alpha Blondy - Human Race (320)
+t/home/chai/.local/share/vifm/Trash/000_Amy Winehouse (2003-2015) (Opus ~128 & 1 in mp3 ~128)
+	/home/chai/Downloads/trnts/Amy Winehouse (2003-2015) (Opus ~128 & 1 in mp3 ~128)
+t/home/chai/.local/share/vifm/Trash/000_Earth Wind & Fire - Greatest Hits (1998) [FLAC]
+	/home/chai/Downloads/trnts/Earth Wind & Fire - Greatest Hits (1998) [FLAC]
+t/home/chai/.local/share/vifm/Trash/001_Kairos
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/Kairos
+t/run/media/chai/4411-DA45/.vifm-Trash-1000/000_Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+	/run/media/chai/4411-DA45/Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+t/run/media/chai/CAMELIA/.vifm-Trash-1000/000_Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+	/run/media/chai/CAMELIA/Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+t/run/media/chai/CAMELIA/.vifm-Trash-1000/000_Aladdin.2019.720p.WEBRip.x264-[YTS.LT].mp4
+	/run/media/chai/CAMELIA/Aladdin.2019.720p.WEBRip.x264-[YTS.LT].mp4
+t/run/media/chai/CAMELIA/.vifm-Trash-1000/000_Spider-Man.Into.The.Spider-Verse.2018.720p.WEBRip.x264-[YTS.AM].mp4
+	/run/media/chai/CAMELIA/Spider-Man.Into.The.Spider-Verse.2018.720p.WEBRip.x264-[YTS.AM].mp4
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - DISCOGRAPHY (2015-2019).torrent
+	/home/chai/Downloads/trnts/msc/Billie Eilish - DISCOGRAPHY (2015-2019).torrent
+t/home/chai/.local/share/vifm/Trash/001_Billie Eilish - Live at Third Man Records (2019) (320) [DJ].torrent
+	/home/chai/Downloads/trnts/msc/Billie Eilish - Live at Third Man Records (2019) (320) [DJ].torrent
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - Live at Third Man Records (2019) [24bit.FLAC].[DJ].torrent
+	/home/chai/Downloads/trnts/msc/Billie Eilish - Live at Third Man Records (2019) [24bit.FLAC].[DJ].torrent
+t/home/chai/.local/share/vifm/Trash/000_Billie Eilish - Live at the Steve Jobs Theater (2019) [320kbps] {YMB}⭐.torrent
+	/home/chai/Downloads/trnts/msc/Billie Eilish - Live at the Steve Jobs Theater (2019) [320kbps] {YMB}⭐.torrent
+t/home/chai/.local/share/vifm/Trash/000_Bob Marley & The Wailers - Legend (2020) - 7.1 Multichannel 192kHz-24bit High-Resolution Audio [SexySadist].torrent
+	/home/chai/Downloads/trnts/msc/Bob Marley & The Wailers - Legend (2020) - 7.1 Multichannel 192kHz-24bit High-Resolution Audio [SexySadist].torrent
+t/home/chai/.local/share/vifm/Trash/000_Bob Marley & The Wailers - Live At The Rainbow, 4th June 1977 (Remastered 2020) [MP3 320] - Hellavibes.torrent
+	/home/chai/Downloads/trnts/msc/Bob Marley & The Wailers - Live At The Rainbow, 4th June 1977 (Remastered 2020) [MP3 320] - Hellavibes.torrent
+t/home/chai/.local/share/vifm/Trash/000_2020-03-23 18-52-43.mkv
+	/home/chai/2020-03-23 18-52-43.mkv
+t/home/chai/.local/share/vifm/Trash/000_Peek 2020-03-24 09-54.gif
+	/home/chai/Videos/Peek 2020-03-24 09-54.gif
+t/home/chai/.local/share/vifm/Trash/000_2020-07-07-202659_1920x1800_scrot.png
+	/home/chai/Pictures/2020-07-07-202659_1920x1800_scrot.png
+t/home/chai/.local/share/vifm/Trash/000_login-selections.spec.js
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/e2e/tests/kairos2.0/login-selections.spec.js
+t/home/chai/.local/share/vifm/Trash/000_Finding Dory (2016) [1080p] [YTS.AG]
+	/home/chai/Downloads/trnts/Finding Dory (2016) [1080p] [YTS.AG]
+t/home/chai/.local/share/vifm/Trash/000_Terminator 2 (1991) [1080p] [YTS.AG]
+	/home/chai/Downloads/trnts/Terminator 2 (1991) [1080p] [YTS.AG]
+t/home/chai/.local/share/vifm/Trash/000_The Fate Of The Furious (2017) [1080p] [YTS.AG]
+	/home/chai/Downloads/trnts/The Fate Of The Furious (2017) [1080p] [YTS.AG]
+t/home/chai/.local/share/vifm/Trash/000_Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+	/home/chai/Downloads/trnts/Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+t/home/chai/.local/share/vifm/Trash/000_Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+	/home/chai/Downloads/trnts/Johnny English Strikes Again (2018) [BluRay] [1080p] [YTS.AM]
+t/home/chai/.local/share/vifm/Trash/000_Papillon (2017) [BluRay] [1080p] [YTS.AM]
+	/home/chai/Downloads/trnts/Papillon (2017) [BluRay] [1080p] [YTS.AM]
+t/home/chai/.local/share/vifm/Trash/000_Alita Battle Angel (2019) [BluRay] [1080p] [YTS.LT]
+	/home/chai/Downloads/trnts/Alita Battle Angel (2019) [BluRay] [1080p] [YTS.LT]
+t/home/chai/.local/share/vifm/Trash/000_Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+	/home/chai/Downloads/trnts/Ip Man 4 The Finale (2019) [1080p] [BluRay] [5.1] [YTS.MX]
+t/home/chai/.local/share/vifm/Trash/000_Spinster.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]
+	/home/chai/Downloads/trnts/Spinster.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]
+t/home/chai/.local/share/vifm/Trash/000_Valley.of.the.Gods.2020.720p.BluRay.800MB.x264-GalaxyRG[TGx]
+	/home/chai/Downloads/trnts/Valley.of.the.Gods.2020.720p.BluRay.800MB.x264-GalaxyRG[TGx]
+t/home/chai/.local/share/vifm/Trash/000_Double World 2019 MultiSub 720p x265-StB
+	/home/chai/Downloads/trnts/Double World 2019 MultiSub 720p x265-StB
+t/home/chai/.local/share/vifm/Trash/000_Good Will Hunting (1997) [1080p]
+	/home/chai/Downloads/trnts/Good Will Hunting (1997) [1080p]
+t/home/chai/.local/share/vifm/Trash/000_Miss Peregrines Home for Peculiar Children (2016) (1080p BDRip x265 10bit EAC3 5.1 - xtrem3x) [TAoE].mkv
+	/home/chai/Downloads/trnts/Miss Peregrines Home for Peculiar Children (2016) (1080p BDRip x265 10bit EAC3 5.1 - xtrem3x) [TAoE].mkv
+t/home/chai/.local/share/vifm/Trash/000_Double World 2019 MultiSub 720p x265-StB.torrent
+	/home/chai/Downloads/trnts/Double World 2019 MultiSub 720p x265-StB.torrent
+t/home/chai/.local/share/vifm/Trash/000_Miss Peregrines Home for Peculiar Children (2016) (1080p BDRip x265 10bit EAC3 5.1 - xtrem3x) [TAoE].mkv.torrent
+	/home/chai/Downloads/trnts/Miss Peregrines Home for Peculiar Children (2016) (1080p BDRip x265 10bit EAC3 5.1 - xtrem3x) [TAoE].mkv.torrent
+t/home/chai/.local/share/vifm/Trash/000_South Park (1997) Season 16 S16   Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RCVR) [QxR].torrent
+	/home/chai/Downloads/trnts/South Park (1997) Season 16 S16   Extras (1080p BluRay x265 HEVC 10bit AAC 5.1 RCVR) [QxR].torrent
+t/home/chai/.local/share/vifm/Trash/000_Spinster.2020.720p.WEBRip.800MB.x264-GalaxyRG.torrent
+	/home/chai/Downloads/trnts/Spinster.2020.720p.WEBRip.800MB.x264-GalaxyRG.torrent
+t/home/chai/.local/share/vifm/Trash/000_Valley.of.the.Gods.2020.720p.BluRay.800MB.x264-GalaxyRG.torrent
+	/home/chai/Downloads/trnts/Valley.of.the.Gods.2020.720p.BluRay.800MB.x264-GalaxyRG.torrent
+t/home/chai/.local/share/vifm/Trash/000_Venom.2018.1080p.BluRay.H264.AC3.DD5.1.Will1869[TGx].torrent
+	/home/chai/Downloads/trnts/Venom.2018.1080p.BluRay.H264.AC3.DD5.1.Will1869[TGx].torrent
+t/home/chai/.local/share/vifm/Trash/000_Work.It.2020.720p.NF.WEBRip.800MB.x264-GalaxyRG.torrent
+	/home/chai/Downloads/trnts/Work.It.2020.720p.NF.WEBRip.800MB.x264-GalaxyRG.torrent
+t/home/chai/.local/share/vifm/Trash/000_cool-runnings-1993-1080p.torrent
+	/home/chai/Downloads/trnts/cool-runnings-1993-1080p.torrent
+t/home/chai/.local/share/vifm/Trash/000_Dukes Hardcore Honeys - Maxillion
+	/home/chai/Downloads/trnts/Dukes Hardcore Honeys - Maxillion
+t/home/chai/.local/share/vifm/Trash/000_Ms Jiggles 3D - Part 1-7
+	/home/chai/Downloads/trnts/Ms Jiggles 3D - Part 1-7
+t/home/chai/.local/share/vifm/Trash/000_Buku Iqra 2.pdf
+	/home/chai/Downloads/Buku Iqra 2.pdf
+t/home/chai/.local/share/vifm/Trash/000_Buku Iqra 3.pdf
+	/home/chai/Downloads/Buku Iqra 3.pdf
+t/home/chai/.local/share/vifm/Trash/000_Buku Iqra 4.pdf
+	/home/chai/Downloads/Buku Iqra 4.pdf
+t/home/chai/.local/share/vifm/Trash/000_Buku Iqra 5.pdf
+	/home/chai/Downloads/Buku Iqra 5.pdf
+t/home/chai/.local/share/vifm/Trash/000_Buku Iqra 6.pdf
+	/home/chai/Downloads/Buku Iqra 6.pdf
+t/home/chai/.local/share/vifm/Trash/000_GROW-guide further explained.pdf
+	/home/chai/Downloads/GROW-guide further explained.pdf
+t/home/chai/.local/share/vifm/Trash/000_GROWTH Model The Basics.pdf
+	/home/chai/Downloads/GROWTH Model The Basics.pdf
+t/home/chai/.local/share/vifm/Trash/000_Growth profiles.pdf
+	/home/chai/Downloads/Growth profiles.pdf
+t/home/chai/.local/share/vifm/Trash/000_urenstaat_Stofkoper_augustus_2020.pdf
+	/home/chai/Downloads/urenstaat_Stofkoper_augustus_2020.pdf
+t/home/chai/.local/share/vifm/Trash/000_Boek 1-al-arabiyya.zip
+	/home/chai/Downloads/Boek 1-al-arabiyya.zip
+t/home/chai/.local/share/vifm/Trash/000_madina-book-1-.pdf
+	/home/chai/Nextcloud/Documents/personal/arabic/Boek 1/madina-book-1-.pdf
+t/home/chai/.local/share/vifm/Trash/000_Buku Iqra 2(1).pdf
+	/home/chai/Nextcloud/Documents/personal/arabic/Buku Iqra 2(1).pdf
+t/home/chai/.local/share/vifm/Trash/000_user-settings-admin.spec.js
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/e2e/tests/kairos/user-settings-admin.spec.js
+t/home/chai/.local/share/vifm/Trash/000_firefox
+	/home/chai/Downloads/firefox
+t/home/chai/.local/share/vifm/Trash/000_Kairos
+	/home/chai/code/back/Kairos
+t/home/chai/.local/share/vifm/Trash/000_old-user-details.component.html
+	/home/chai/code/Kairos/src/front-ends/kairos-portal/src/app/modules/user-management/pages/user-details/old-user-details.component.html
+t/home/chai/.local/share/vifm/Trash/000_en_bigbook_foreworddoctorsopinion.pdf
+	/home/chai/Downloads/en_bigbook_foreworddoctorsopinion.pdf
+t/home/chai/.local/share/vifm/Trash/000_copper3-4.jpg
+	/home/chai/Downloads/copper3-4.jpg
+t/home/chai/.local/share/vifm/Trash/000_copper3-1.jpg
+	/home/chai/Downloads/copper3-1.jpg
+t/home/chai/.local/share/vifm/Trash/000_copper3-2.jpg
+	/home/chai/Downloads/copper3-2.jpg
+t/home/chai/.local/share/vifm/Trash/000_copper3-5.jpg
+	/home/chai/Downloads/copper3-5.jpg
+t/home/chai/.local/share/vifm/Trash/000_copper3.jpg
+	/home/chai/Downloads/copper3.jpg
+t/home/chai/.local/share/vifm/Trash/000_image001.jpg
+	/home/chai/Downloads/image001.jpg
+t/home/chai/.local/share/vifm/Trash/000_image004.jpg
+	/home/chai/Downloads/image004.jpg
+t/home/chai/.local/share/vifm/Trash/000_Checklist eindpagina _ Immigratie- en Naturalisatiedienst (IND).pdf
+	/home/chai/Downloads/Checklist eindpagina _ Immigratie- en Naturalisatiedienst (IND).pdf
+t/home/chai/.local/share/vifm/Trash/000_v10.16.0
+	/home/chai/.nvm/versions/node/v10.16.0
+t/home/chai/.local/share/vifm/Trash/000_Buku Iqra 3(1).pdf
+	/home/chai/Nextcloud/Documents/personal/arabic/Buku Iqra 3(1).pdf
+t/home/chai/.local/share/vifm/Trash/000_Bijlage Antecedentenverklaring.pdf
+	/home/chai/Nextcloud/Documents/personal/knafeh/official-shait/Bijlage Antecedentenverklaring.pdf
+t/home/chai/.local/share/vifm/Trash/000_Bijlage Verklaring referent (familie en gezin).pdf
+	/home/chai/Nextcloud/Documents/personal/knafeh/official-shait/Bijlage Verklaring referent (familie en gezin).pdf
+t/home/chai/.local/share/vifm/Trash/000_Westworld (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)
+	/home/chai/Downloads/trnts/Westworld (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)
+t/home/chai/.local/share/vifm/Trash/000_Westworld S01E01 720p HDTV x264-Belex - Dual Audio.mkv.part
+	/home/chai/Downloads/trnts/Westworld S01E01 720p HDTV x264-Belex - Dual Audio.mkv.part
+t/home/chai/.local/share/vifm/Trash/000_1_fetch_user_location_settings.sql
+	/home/chai/code/Kairos/src/e2e/data/create/1_fetch_user_location_settings.sql
+t/home/chai/.local/share/vifm/Trash/000_3_user_region_location_settings.sql
+	/home/chai/code/Kairos/src/e2e/data/create/3_user_region_location_settings.sql
+t/home/chai/.local/share/vifm/Trash/000_AddApplicationTestData.v0.sql
+	/home/chai/code/Kairos/src/services/dotnet/Kairos.Services/Services/Kairos.Services.ApplicationService/Data/Migrations/Seed/AddApplicationTestData.v0.sql
+t/home/chai/.local/share/vifm/Trash/000_package.json-bak
+	/home/chai/code/Kairos/src/seeds/package.json-bak
+t/home/chai/.local/share/vifm/Trash/000_2_user_property.sql
+	/home/chai/code/Kairos/src/e2e/data/create/2_user_property.sql
+t/home/chai/.local/share/vifm/Trash/000_2_status_transitions_script.sql
+	/home/chai/code/Kairos/src/seeds/create/initial/2_status_transitions_script.sql
+t/home/chai/.local/share/vifm/Trash/000_1_user_printlocation.sql
+	/home/chai/code/Kairos/src/seeds/create/1_user_printlocation.sql
+t/home/chai/.local/share/vifm/Trash/000_1_user_property.sql
+	/home/chai/code/Kairos/src/seeds/create/1_user_property.sql
+t/home/chai/.local/share/vifm/Trash/000_1_user_region.sql
+	/home/chai/code/Kairos/src/seeds/create/1_user_region.sql
+t/home/chai/.local/share/vifm/Trash/000_1_user_region_location.sql
+	/home/chai/code/Kairos/src/seeds/create/1_user_region_location.sql
+t/home/chai/.local/share/vifm/Trash/000_1_user_region_location_settings.sql
+	/home/chai/code/Kairos/src/seeds/create/1_user_region_location_settings.sql
+t/home/chai/.local/share/vifm/Trash/000_1a_user_region_location_settings.sql
+	/home/chai/code/Kairos/src/seeds/create/1a_user_region_location_settings.sql
+t/home/chai/.local/share/vifm/Trash/000_2_region_locations.sql
+	/home/chai/code/Kairos/src/seeds/create/2_region_locations.sql
+t/home/chai/.local/share/vifm/Trash/000_2_regions.sql
+	/home/chai/code/Kairos/src/seeds/create/2_regions.sql
+t/home/chai/.local/share/vifm/Trash/000_AddWorkFlowData.v0.sql
+	/home/chai/code/Kairos/src/seeds/create/AddWorkFlowData.v0.sql
+t/home/chai/.local/share/vifm/Trash/000_undo_data.sql
+	/home/chai/code/Kairos/src/seeds/undo/undo_data.sql
+t/home/chai/.local/share/vifm/Trash/001_2_region_locations.sql
+	/home/chai/code/Kairos/src/e2e/data/create/2_region_locations.sql
+t/home/chai/.local/share/vifm/Trash/001_2_regions.sql
+	/home/chai/code/Kairos/src/e2e/data/create/2_regions.sql
+t/home/chai/.local/share/vifm/Trash/001_2_status_transitions_script.sql
+	/home/chai/code/Kairos/src/e2e/data/create/2_status_transitions_script.sql
+t/home/chai/.local/share/vifm/Trash/001_1a_user_region_location_settings.sql
+	/home/chai/code/Kairos/src/e2e/data/create/1a_user_region_location_settings.sql
+t/home/chai/.local/share/vifm/Trash/000_AddUserTestData.sql
+	/home/chai/code/Kairos/src/services/dotnet/Kairos.Services/Services/Kairos.Services.UserService/Data/Migrations/AddUserTestData.sql
+t/home/chai/.local/share/vifm/Trash/001_AddWorkFlowData.v0.sql
+	/home/chai/code/Kairos/src/services/dotnet/Kairos.Services/Services/Kairos.Services.WorkflowService/Data/Migrations/Seed/AddWorkFlowData.v0.sql
+t/home/chai/.local/share/vifm/Trash/000_vpns
+	/home/chai/Downloads/vpns
+t/home/chai/.local/share/vifm/Trash/000_2_user_region_location_applicationtype_it.sql
+	/home/chai/code/Kairos/src/seeds/create/userdata/2_user_region_location_applicationtype_it.sql
+t/home/chai/.local/share/vifm/Trash/000_2_user_region_location_it.sql
+	/home/chai/code/Kairos/src/seeds/create/userdata/2_user_region_location_it.sql
+t/home/chai/.local/share/vifm/Trash/000_2_user_region_location_settings_it.sql
+	/home/chai/code/Kairos/src/seeds/create/userdata/2_user_region_location_settings_it.sql
+t/home/chai/.local/share/vifm/Trash/002_2_status_transitions_script.sql
+	/home/chai/code/Kairos/src/seeds/create/2_status_transitions_script.sql
+t/home/chai/.local/share/vifm/Trash/000_2_integration_test_commented.sql
+	/home/chai/code/Kairos/src/seeds/create/userdata/2_integration_test_commented.sql
+t/home/chai/.local/share/vifm/Trash/000_onedark.vifm
+	/home/chai/.config/vifm/colors/onedark.vifm
+t/home/chai/.local/share/vifm/Trash/000_nix-home
+	/home/chai/.config/nixpkgs/nix-home
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0

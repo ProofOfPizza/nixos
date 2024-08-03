@@ -1,0 +1,12 @@
+{
+  "parser": "angular"
+  "html-whitespace-sensitivity":"css",
+  "endOfLine": "lf",
+  "semi": true,
+  "singleQuote": true,
+
+  "tabWidth": 2,
+  "printWidth": 0,
+  "trailingComma": "all",
+  "arrayExpand": false
+}

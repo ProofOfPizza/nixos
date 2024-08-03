@@ -1,0 +1,26 @@
+# gitconfig
+
+[user]
+  name = Chai Stofkoper
+  email = chai@adabtive.nl
+
+[commit]
+  # signingkey = your-signing-key-id
+  # Uncomment the following line if you have a GPG key set up
+  # gpgSign = true
+
+[pull]
+  rebase = true
+
+[fetch]
+  prune = true
+
+[url "git@github.com:"]
+  insteadOf = https://github.com/
+
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
+
