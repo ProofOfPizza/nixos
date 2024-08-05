@@ -6,6 +6,7 @@ USER_HOME="/home/chai"
 # Ensure the user's directories exist
 mkdir -p "$USER_HOME/.config/nvim/colors"
 mkdir -p "$USER_HOME/.config/i3"
+mkdir -p "$USER_HOME/.config/i3status"
 mkdir -p "$USER_HOME/.vifm/scripts"
 mkdir -p "$USER_HOME/.vifm/colors"
 
@@ -17,6 +18,7 @@ cp /etc/nixos/programs/editor/neovim/init.vim "$USER_HOME/.config/nvim/init.vim"
 
 # Copy i3 configuration files
 cp /etc/nixos/programs/window-manager/i3/config "$USER_HOME/.config/i3/config"
+cp /etc/nixos/programs/window-manager/i3/i3statusbar "$USER_HOME/.config/i3status/config"
 cp /etc/nixos/programs/window-manager/i3/xrandr-2.sh "$USER_HOME/.config/i3/xrandr-2.sh"
 cp /etc/nixos/programs/window-manager/i3/xrandr-1.sh "$USER_HOME/.config/i3/xrandr-1.sh"
 cp /etc/nixos/programs/window-manager/i3/xrandr-1920.sh "$USER_HOME/.config/i3/xrandr-1920.sh"

@@ -232,6 +232,7 @@ bindsym $mod+l exec "i3lock -c 542f09"
 exec --no-startup-id nextcloud-client
 exec --no-startup-id flameshot
 exec --no-startup-id nm-applet
+exec --no-startup-id blueman-manager
 exec --no-startup-id xautolock -time 100 -locker "i3lock -c c111be"
 
 #set background

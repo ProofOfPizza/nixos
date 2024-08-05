@@ -34,12 +34,6 @@ in
     TERMINAL= "alacritty";
     };
 
-
-  environment.etc."sudoers".text = ''
-    Defaults env_keep += "HOME"
-    Defaults env_keep += "SSH_AUTH_SOCK"
-  '';
-
   networking.hostName = "nixos"; # Define your hostname.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
 
