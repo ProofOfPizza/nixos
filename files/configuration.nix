@@ -95,6 +95,7 @@ in
   virtualisation.docker.enable = true;
 
   services.lorri.enable = true;
+
 # Oh My Zsh setup
   programs.zsh = {
     enable = true;
@@ -163,6 +164,7 @@ programs.neovim = {
   #  wget
     alacritty
     arandr
+    beep
     bluez
     bluez-tools
     brave
@@ -196,6 +198,7 @@ programs.neovim = {
     postman
     pulseaudio
     pulsemixer
+    python3
     ripgrep
     signal-desktop
     slack
@@ -230,6 +233,18 @@ programs.neovim = {
   };
   hardware.pulseaudio.enable = true;
 
+# Define a systemd service for the Python script
+  systemd.services.battery-monitor = {
+    description = "Battery Monitor Service";
+    after = [ "network.target" ];
+    wantedBy = [ "multi-user.target" ];
+    serviceConfig = {
+      ExecStart = "${pkgs.python3}/bin/python3 /home/chai/.config/scripts/batt-check.py";
+      Restart = "always";
+      User = "root";  # Run as root
+      Environment = "HOME=/home/chai";
+    };
+  };
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
   # programs.mtr.enable = true;

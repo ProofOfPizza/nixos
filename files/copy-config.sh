@@ -4,11 +4,15 @@
 USER_HOME="/home/chai"
 
 # Ensure the user's directories exist
+mkdir -p "$USER_HOME/.config/scripts"
 mkdir -p "$USER_HOME/.config/nvim/colors"
 mkdir -p "$USER_HOME/.config/i3"
 mkdir -p "$USER_HOME/.config/i3status"
 mkdir -p "$USER_HOME/.vifm/scripts"
 mkdir -p "$USER_HOME/.vifm/colors"
+
+# Copy scripts
+cp /etc/nixos/programs/scripts/batt-check.py "$USER_HOME/.config/scripts/batt-check.py"
 
 # Copy Neovim configuration files
 cp /etc/nixos/programs/editor/neovim/configs/SpaceMacs.vim "$USER_HOME/.config/nvim/colors/SpaceMacs.vim"
