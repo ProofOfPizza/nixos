@@ -95,6 +95,14 @@ in
   virtualisation.docker.enable = true;
 
   services.lorri.enable = true;
+  services.redshift = {
+    enable = true;
+    brightness.night = "0.8";
+    temperature.night = 3300;
+  };
+
+  location.latitude = 51.2518202;
+  location.longitude = 4.023880;
 
 # Oh My Zsh setup
   programs.zsh = {
@@ -150,7 +158,7 @@ programs.neovim = {
     isNormalUser = true;
     description = "chai";
     shell = pkgs.zsh;
-    extraGroups = [ "networkmanager" "wheel" "docker" ];
+    extraGroups = [ "networkmanager" "wheel" "docker" "beep" ];
     packages = with pkgs; [];
   };
 
@@ -164,7 +172,6 @@ programs.neovim = {
   #  wget
     alacritty
     arandr
-    beep
     bluez
     bluez-tools
     brave
@@ -192,6 +199,7 @@ programs.neovim = {
     nodejs_22
     oh-my-zsh
     pavucontrol
+    pciutils
     p7zip
     peek
     poppler_utils
@@ -233,18 +241,37 @@ programs.neovim = {
   };
   hardware.pulseaudio.enable = true;
 
-# Define a systemd service for the Python script
-  systemd.services.battery-monitor = {
-    description = "Battery Monitor Service";
-    after = [ "network.target" ];
-    wantedBy = [ "multi-user.target" ];
-    serviceConfig = {
-      ExecStart = "${pkgs.python3}/bin/python3 /home/chai/.config/scripts/batt-check.py";
-      Restart = "always";
-      User = "root";  # Run as root
-      Environment = "HOME=/home/chai";
-    };
-  };
+
+
+
+# This runs only intel/amdgpu igpus and nvidia dgpus do not drain power.
+# this part is to save batt life. found here: https://github.com/NixOS/nixos-hardware/blob/59e37017b9ed31dee303dbbd4531c594df95cfbc/common/gpu/nvidia/disable.nix and mentioned https://discourse.nixos.org/t/battery-life-still-isnt-great/41188
+
+  ##### disable nvidia, very nice battery life.
+  boot.extraModprobeConfig = ''
+    blacklist nouveau
+    options nouveau modeset=0
+  '';
+
+  services.udev.extraRules = ''
+    # Remove NVIDIA USB xHCI Host Controller devices, if present
+    ACTION=="add", SUBSYSTEM=="pci", ATTR{vendor}=="0x10de", ATTR{class}=="0x0c0330", ATTR{power/control}="auto", ATTR{remove}="1"
+
+    # Remove NVIDIA USB Type-C UCSI devices, if present
+    ACTION=="add", SUBSYSTEM=="pci", ATTR{vendor}=="0x10de", ATTR{class}=="0x0c8000", ATTR{power/control}="auto", ATTR{remove}="1"
+
+    # Remove NVIDIA Audio devices, if present
+    ACTION=="add", SUBSYSTEM=="pci", ATTR{vendor}=="0x10de", ATTR{class}=="0x040300", ATTR{power/control}="auto", ATTR{remove}="1"
+
+    # Remove NVIDIA VGA/3D controller devices
+    ACTION=="add", SUBSYSTEM=="pci", ATTR{vendor}=="0x10de", ATTR{class}=="0x03[0-9]*", ATTR{power/control}="auto", ATTR{remove}="1"
+  '';
+  boot.blacklistedKernelModules = [ "nouveau" "nvidia" "nvidia_drm" "nvidia_modeset" ];
+  ## End batt saving stuff
+
+
+
+
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
   # programs.mtr.enable = true;
