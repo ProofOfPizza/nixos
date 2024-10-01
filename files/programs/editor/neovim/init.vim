@@ -103,6 +103,9 @@ endfunction
 " Automatically delete trailing spaces
 autocmd BufWritePre * :%s/\s\+$//e
 
+"You complete me
+let g:ycm_key_list_stop_completion = ['<C-y>', ' ']
+
 "search
 nnoremap <C-g> :GFiles?<CR>
 nnoremap <C-h> :History<CR>

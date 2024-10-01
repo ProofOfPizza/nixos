@@ -104,6 +104,11 @@ in
   location.latitude = 51.2518202;
   location.longitude = 4.023880;
 
+  #enable automount
+  services.devmon.enable = true;
+  services.gvfs.enable = true;
+  services.udisks2.enable = true;
+
 # Oh My Zsh setup
   programs.zsh = {
     enable = true;
@@ -120,29 +125,30 @@ programs.neovim = {
   configure = {
     packages.myVimPackage = with pkgs.vimPlugins; {
       start = [
-        vim-sensible
-        coc-nvim
+        YouCompleteMe
         argtextobj-vim
         auto-pairs
+        coc-nvim
+        csv-vim
         direnv-vim
         fzf-vim
+        gruvbox
         haskell-vim
         i3config-vim
         papercolor-theme
+        syntastic
+        tabular
+        vim-airline
+        vim-airline-themes
         vim-commentary
         vim-css-color
         vim-floaterm
+        vim-go
         vim-javascript
         vim-jsx-pretty
-        tabular
-        csv-vim
-        syntastic
-        gruvbox
-        vim-airline
-        vim-airline-themes
         vim-polyglot
+        vim-sensible
         vim-surround
-        vim-go
       ];
     };
     customRC = ''
