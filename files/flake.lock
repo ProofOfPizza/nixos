@@ -1,6 +1,84 @@
 {
   "nodes": {
+    "inept-epub": {
+      "inputs": {
+        "nixpkgs": [
+          "knock",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1627256311,
+        "narHash": "sha256-NEDsexz3lNmaLm6nSHURsmgNX592b3fcNR2fzEuk3U0=",
+        "owner": "BentonEdmondson",
+        "repo": "inept-epub",
+        "rev": "b992adc8be351c00673a032df10552d7bc577290",
+        "type": "github"
+      },
+      "original": {
+        "owner": "BentonEdmondson",
+        "repo": "inept-epub",
+        "type": "github"
+      }
+    },
+    "knock": {
+      "inputs": {
+        "inept-epub": "inept-epub",
+        "libgourou-utils": "libgourou-utils",
+        "nixpkgs": "nixpkgs"
+      },
+      "locked": {
+        "lastModified": 1627937008,
+        "narHash": "sha256-NEV76NHvWtaEQdUFt/kgo9gxk6o9HNQNSi0H8KG6g90=",
+        "owner": "esn",
+        "repo": "knock",
+        "rev": "7f682b82d5e08ca95d52a3cce6deba1f13431802",
+        "type": "github"
+      },
+      "original": {
+        "owner": "esn",
+        "repo": "knock",
+        "type": "github"
+      }
+    },
+    "libgourou-utils": {
+      "inputs": {
+        "nixpkgs": [
+          "knock",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1627508403,
+        "narHash": "sha256-JHOxPSJSaS+0NTUkNv6a9oI8g30pBuCDC+JwtZBaq3U=",
+        "owner": "BentonEdmondson",
+        "repo": "libgourou-utils",
+        "rev": "f16d3df200134209a1e2e530db056b3cd715425d",
+        "type": "github"
+      },
+      "original": {
+        "owner": "BentonEdmondson",
+        "repo": "libgourou-utils",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
+      "locked": {
+        "lastModified": 1627128856,
+        "narHash": "sha256-yw3lA8zyNFhj309lmxvNByEEymRT1rRy5oE+jEPnsP4=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "dd14e5d78e90a2ccd6007e569820de9b4861a6c2",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs_2": {
       "locked": {
         "lastModified": 1717179513,
         "narHash": "sha256-vboIEwIQojofItm2xGCdZCzW96U85l9nDW3ifMuAIdM=",
@@ -18,7 +96,8 @@
     },
     "root": {
       "inputs": {
-        "nixpkgs": "nixpkgs"
+        "knock": "knock",
+        "nixpkgs": "nixpkgs_2"
       }
     }
   },

@@ -26,6 +26,7 @@ cp /etc/nixos/programs/window-manager/i3/i3statusbar "$USER_HOME/.config/i3statu
 cp /etc/nixos/programs/window-manager/i3/xrandr-2.sh "$USER_HOME/.config/i3/xrandr-2.sh"
 cp /etc/nixos/programs/window-manager/i3/xrandr-1.sh "$USER_HOME/.config/i3/xrandr-1.sh"
 cp /etc/nixos/programs/window-manager/i3/xrandr-1920.sh "$USER_HOME/.config/i3/xrandr-1920.sh"
+cp /etc/nixos/programs/window-manager/i3/alacritty_start.sh "$USER_HOME/.config/i3/alacritty_start.sh"
 
 # Copy vifm configuration files
 cp /etc/nixos/programs/file-manager/vifm/vifmrc "$USER_HOME/.vifm/vifmrc"

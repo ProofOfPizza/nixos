@@ -50,8 +50,9 @@ floating_modifier $mod
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec alacritty
-bindsym $mod+KP_Enter exec alacritty
+bindsym $mod+Return exec bash '/home/chai/.config/i3/alacritty_start.sh'
+
+bindsym $mod+KP_Enter exec bash '/home/chai/.config/i3/alacritty_start.sh'
 
 
 # kill focused window

@@ -181,6 +181,7 @@ programs.neovim = {
     bluez
     bluez-tools
     brave
+    calibre
     chromium
     direnv
     docker
