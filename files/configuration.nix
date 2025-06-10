@@ -14,6 +14,7 @@ in
     [ # Include the results of the hardware scan.
     # other imports...
     ./hardware-configuration.nix
+    ./module.nix
     ];
   # Bootloader.
   boot.loader.systemd-boot.enable = true;
@@ -43,6 +44,22 @@ in
 
   # Enable networking
   networking.networkmanager.enable = true;
+
+  # extra hosts voor solcon werk
+  networking.extraHosts = ''
+    139.156.121.234 teamkpn.kpnnet.org
+    139.156.121.234 ksp.kpnnet.org
+    139.156.121.170 cordys.reggefiber.net
+    139.156.122.196 apps.reggefiber.net
+    139.156.121.83 ipos.kpn.org
+    139.156.120.2 jira.kpn.org
+    139.156.120.3 jira-acc.kpn.org
+    139.156.120.4 confluence.kpn.org
+    139.156.78.81 confluence-acc.kpn.org
+    195.121.13.98 blip-acc.tcloud-itv-acc1.np.aws.kpn.org
+    195.121.13.97 blip.tcloud-itv-prd1.prod.aws.kpn.org
+  '';
+
 
   # Set your time zone.
   time.timeZone = "Europe/Amsterdam";
@@ -108,6 +125,8 @@ in
   services.devmon.enable = true;
   services.gvfs.enable = true;
   services.udisks2.enable = true;
+
+  programs.connect-tunnel.enable = true;
 
 # Oh My Zsh setup
   programs.zsh = {
@@ -236,11 +255,14 @@ programs.neovim = {
     xmrig
     xournalpp
     zathura
+    zip
+    unzip
     zoom-us
     zsh
     zsh-autosuggestions
   ];
 
+  environment.variables.DUMMY_FORCE_REBUILD = "true";
   hardware.bluetooth.enable = true;
 
   services.blueman = {
