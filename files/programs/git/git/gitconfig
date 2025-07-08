@@ -24,3 +24,5 @@
   ci = commit
   st = status
 
+[includeIf "gitdir:~/code/projects/h2b/"]
+  path = ~/code/projects/h2b/.gitconfig-h2b
