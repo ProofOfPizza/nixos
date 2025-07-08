@@ -224,6 +224,7 @@ programs.neovim = {
     nmap
     nodejs_22
     oh-my-zsh
+    openvpn
     pavucontrol
     pciutils
     p7zip
