@@ -10,6 +10,11 @@ setopt SHARE_HISTORY
 HISTSIZE=10000
 HISTFILE="$HOME/.zsh_history"
 
+# Ensure nix-ld environment variables are loaded
+if [ -f /etc/profile.d/nix-ld.sh ]; then
+  source /etc/profile.d/nix-ld.sh
+fi
+
 # FZF configuration
 export FZF_DEFAULT_OPTS="-m --color='light' --bind 'ctrl-/:toggle-preview' --preview 'head -500 {}' --height 80% --preview-window=up:40%:hidden --layout=reverse --border"
 export FZF_DEFAULT_COMMAND='rg --files --hidden --follow --no-ignore-vcs'

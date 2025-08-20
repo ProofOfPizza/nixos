@@ -59,8 +59,7 @@ in
     139.156.78.81 confluence-acc.kpn.org
     195.121.13.98 blip-acc.tcloud-itv-acc1.np.aws.kpn.org
     195.121.13.97 blip.tcloud-itv-prd1.prod.aws.kpn.org
-    127.0.0.1 api.localhost
-    127.0.0.1 frontend.localhost
+    127.0.0.1 app.localhost
     127.0.0.1 traefik.localhost
   '';
 
@@ -179,6 +178,20 @@ programs.neovim = {
       '';
   };
 };
+
+  programs.nix-ld.enable = true;
+  programs.nix-ld.libraries = with pkgs; [
+    stdenv.cc.cc
+    zlib
+    glibc
+    openssl
+    libffi
+    libxml2
+    libxslt
+    xz
+    bzip2
+    ncurses
+  ];
 # Configure Zsh as the default shell
   users.defaultUserShell = pkgs.zsh;
 
