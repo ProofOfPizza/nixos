@@ -316,8 +316,29 @@ programs.neovim = {
   boot.blacklistedKernelModules = [ "nouveau" "nvidia" "nvidia_drm" "nvidia_modeset" ];
   ## End batt saving stuff
 
+# Use systemd-resolved with public DNS so CT avoids flaky modem DNS
+services.resolved = {
+  enable = true;
+  fallbackDns = [ "1.1.1.1" "8.8.8.8" ];
+  dnssec = "allow-downgrade";
+};
+
+######################################################
+# Stuff done to get sonicwall to work
+######################################################
 
 
+# Make NetworkManager talk to systemd-resolved's stub resolver
+networking.networkmanager.dns = "systemd-resolved";
+
+# (Optional but harmless) Also declare nameservers explicitly
+networking.nameservers = [ "1.1.1.1" "8.8.8.8" ];
+
+# Pin the VPN host to IPv4 so CT never needs to resolve it
+# (you confirmed 212.45.53.68 and both FQDNs appear in logs/cert)
+networking.hosts."212.45.53.68" = [ "vpn.solcon.nl" "vpn01.solcon.nl" ];
+
+#######################################################
 
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.

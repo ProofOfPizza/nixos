@@ -25,7 +25,7 @@ in {
     };
 
     # ensure /dev/net/tun exists early on
-    boot.extraModprobeConfig = "options tun";
+    boot.kernelModules = [ "tun" ];
 
 
     systemd.tmpfiles.rules = [
