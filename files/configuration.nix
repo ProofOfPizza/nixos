@@ -252,6 +252,7 @@ programs.neovim = {
     poppler_utils
     postman
     pulsemixer
+    pulseaudio
     python3
     ripgrep
     signal-desktop
@@ -290,18 +291,26 @@ programs.neovim = {
   services.blueman = {
     enable = true; # Optional, provides a GUI for managing Bluetooth
   };
+services.pipewire.enable = false;
 
-  services.pulseaudio.enable = false;
-  services.pipewire = {
-    enable = true;
-    alsa.enable = true;
-    alsa.support32Bit = true;
-    pulse.enable = true;   # provides the PulseAudio server via pipewire-pulse
-    jack.enable = true;    # optional, handy for audio apps
-  };
-
-
-
+security.rtkit.enable = true;
+services.pulseaudio = {
+  enable = true;
+  package = pkgs.pulseaudioFull;   # bluetooth codecs etc.
+  support32Bit = true;             # helpful for Steam / some apps
+  extraConfig = ''
+    load-module module-bluetooth-policy
+    load-module module-bluetooth-discover
+    load-module module-switch-on-port-available
+    load-module module-switch-on-connect
+  '';
+};
+# (Optional) scrub legacy Lua dir that kept showing in logs
+system.activationScripts.removeOldWirePlumberLua.text = ''
+  if [ -d /etc/wireplumber/main.lua.d ]; then
+    rm -rf /etc/wireplumber/main.lua.d
+  fi
+'';
 # This runs only intel/amdgpu igpus and nvidia dgpus do not drain power.
 # this part is to save batt life. found here: https://github.com/NixOS/nixos-hardware/blob/59e37017b9ed31dee303dbbd4531c594df95cfbc/common/gpu/nvidia/disable.nix and mentioned https://discourse.nixos.org/t/battery-life-still-isnt-great/41188
 
