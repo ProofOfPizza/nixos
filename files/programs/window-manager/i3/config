@@ -19,8 +19,16 @@ exec --no-startup-id nm-applet
 # switching monitors
 bindsym $mod+Tab exec "/home/chai/.config/i3/i3switch"
 
-#(un)muting sound
-bindsym $mod+m exec "amixer set Master toggle"
+#(un)muting sound and volumes
+set $wpctl /run/current-system/sw/bin/wpctl
+
+bindsym $mod+m exec --no-startup-id "$wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"
+
+bindsym $mod+Shift+m exec --no-startup-id "$wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle"
+
+bindsym XF86AudioRaiseVolume exec --no-startup-id "$wpctl set-volume -l 1.5 @DEFAULT_AUDIO_SINK@ 5%+"
+bindsym XF86AudioLowerVolume exec --no-startup-id "$wpctl set-volume       @DEFAULT_AUDIO_SINK@ 5%-"
+bindsym XF86AudioMute        exec --no-startup-id "$wpctl set-mute         @DEFAULT_AUDIO_SINK@ toggle"
 
 # Use pactl to adjust volume in PulseAudio.
 #set $refresh_i3status killall -SIGUSR1 i3status

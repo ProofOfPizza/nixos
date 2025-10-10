@@ -22,7 +22,7 @@ in
 
   boot.initrd.luks.devices."luks-d60000a7-b82b-4115-ba74-6393eb27a095".device = "/dev/disk/by-uuid/d60000a7-b82b-4115-ba74-6393eb27a095";
   nix = {
-    package = pkgs.nixFlakes;
+    package = pkgs.nixVersions.stable;
     extraOptions = ''
       experimental-features = nix-command flakes
     '';
@@ -228,15 +228,18 @@ programs.neovim = {
     flameshot
     fzf
     git
-    gnome.gnome-keyring
+    gnome-keyring
     gnupg
+    helvum
     htop
     jq
     keepass
     keeweb
     libreoffice
+    librewolf
     lorri
     mcomix3
+    mullvad-browser
     nextcloud-client
     nmap
     nodejs_22
@@ -248,7 +251,6 @@ programs.neovim = {
     peek
     poppler_utils
     postman
-    pulseaudio
     pulsemixer
     python3
     ripgrep
@@ -265,9 +267,11 @@ programs.neovim = {
     unzip
     viewnior
     vifm
+    vivaldi
     vlc
     vscodium
     wireguard-tools
+    wireshark
     xarchiver
     xclip
     xmrig
@@ -286,8 +290,15 @@ programs.neovim = {
   services.blueman = {
     enable = true; # Optional, provides a GUI for managing Bluetooth
   };
-  hardware.pulseaudio.enable = true;
 
+  services.pulseaudio.enable = false;
+  services.pipewire = {
+    enable = true;
+    alsa.enable = true;
+    alsa.support32Bit = true;
+    pulse.enable = true;   # provides the PulseAudio server via pipewire-pulse
+    jack.enable = true;    # optional, handy for audio apps
+  };
 
 
 
