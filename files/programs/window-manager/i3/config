@@ -21,10 +21,6 @@ bindsym $mod+Tab exec "/home/chai/.config/i3/i3switch"
 
 #(un)muting sound and volumes
 
-# Volume up/down (5% steps)
-bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +5%
-bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -5%
-
 # Mute/unmute speakers (toggle)
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle
 
