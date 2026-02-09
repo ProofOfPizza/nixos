@@ -249,9 +249,9 @@ filetype *.[1-8] man ./%c
 fileviewer *.[1-8] man ./%c | col -b
 
 " Images
-filextype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
+filextype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm, *.cbr
         \ viewnior --fullscreen %c
-fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
+fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm, *.cbr
            \ vifmimg draw %px %py %pw %ph %c
            \ %pc
            \ ~/.vifm/scripts/vifmimg clear

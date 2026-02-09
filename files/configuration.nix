@@ -21,6 +21,15 @@ in
   boot.loader.efi.canTouchEfiVariables = true;
 
   boot.initrd.luks.devices."luks-d60000a7-b82b-4115-ba74-6393eb27a095".device = "/dev/disk/by-uuid/d60000a7-b82b-4115-ba74-6393eb27a095";
+  boot.kernel.sysctl = {
+    "vm.swappiness" = 10;
+  };
+
+  boot.kernelParams = [ "usbcore.autosuspend=-1" ];
+
+  boot.kernelPackages = pkgs.linuxPackages_6_6;
+
+
   nix = {
     package = pkgs.nixVersions.stable;
     extraOptions = ''
@@ -35,6 +44,11 @@ in
     TERMINAL= "alacritty";
     };
 
+  fonts.packages = with pkgs; [
+    inconsolata
+    powerline-fonts
+  ];
+
   networking.hostName = "nixos"; # Define your hostname.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
 
@@ -48,6 +62,7 @@ in
   # extra hosts voor solcon werk
   # extra localhost for h2b traefik
   networking.extraHosts = ''
+    10.4.4.110 account.int.solcon.nl
     139.156.121.234 teamkpn.kpnnet.org
     139.156.121.234 ksp.kpnnet.org
     139.156.121.170 cordys.reggefiber.net
@@ -110,6 +125,7 @@ in
 	  export SSH_AUTH_SOCK
 	'';
       };
+      videoDrivers = [ "amdgpu" ];
     };
   };
   virtualisation.docker.enable = true;
@@ -228,6 +244,7 @@ programs.neovim = {
     flameshot
     fzf
     git
+    glxinfo
     gnome-keyring
     gnupg
     helvum
@@ -245,32 +262,35 @@ programs.neovim = {
     nodejs_22
     oh-my-zsh
     openvpn
+    p7zip
     pavucontrol
     pciutils
-    p7zip
     peek
     poppler_utils
     postman
-    pulsemixer
     pulseaudio
+    pulsemixer
     python3
     ripgrep
     signal-desktop
     slack
     spotify
-    steam
     stellarium
     sublime3
+    tidal-hifi
     transmission_4-gtk
-    ueberzug
     udiskie
+    ueberzug
     unrar
+    unzip
     unzip
     viewnior
     vifm
     vivaldi
     vlc
     vscodium
+    vulkan-loader
+    vulkan-tools
     wireguard-tools
     wireshark
     xarchiver
@@ -279,11 +299,20 @@ programs.neovim = {
     xournalpp
     zathura
     zip
-    unzip
     zoom-us
     zsh
     zsh-autosuggestions
   ];
+
+  hardware.graphics = {
+    enable = true;
+    enable32Bit = true;
+  };
+
+  services.flatpak.enable = true;
+
+  xdg.portal.enable = true;
+  xdg.portal.extraPortals = [ pkgs.xdg-desktop-portal-gtk ];
 
   environment.variables.DUMMY_FORCE_REBUILD = "true";
   hardware.bluetooth.enable = true;
