@@ -179,7 +179,7 @@ command! reload :write | restart
 
 " Pdf
 " filextype *.pdf zathura %c %i &, apvlv %c, xpdf %c
-filextype *.pdf
+filextype *.pdf,*.cbr
         \ evince %c
 
 "fileviewer *.pdf
@@ -249,9 +249,9 @@ filetype *.[1-8] man ./%c
 fileviewer *.[1-8] man ./%c | col -b
 
 " Images
-filextype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm, *.cbr
+filextype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
         \ viewnior --fullscreen %c
-fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm, *.cbr
+fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
            \ vifmimg draw %px %py %pw %ph %c
            \ %pc
            \ ~/.vifm/scripts/vifmimg clear
