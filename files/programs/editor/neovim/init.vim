@@ -114,21 +114,18 @@ nnoremap <C-b> :BLines<CR>
 nnoremap <C-p> :All<CR>
 nnoremap <leader>v :Buffers<CR>
 "set grepprg=rg\ --vimgrep\ --smart-case\ --hidden\ --follow
-let g:fzf_preview_window = ['up:50%:hidden', 'ctrl-/']
-command! -bang -nargs=*  All
-  \ call fzf#run(fzf#wrap({'source': 'rg --files --hidden --no-ignore-vcs --glob "!{node_modules/*,.git/*}"', 'options': '--expect=ctrl-t,ctrl-x,ctrl-v --multi --reverse' }))
 
+set grepprg=rg\ --vimgrep
+let $FZF_DEFAULT_COMMAND = 'fd --type f --hidden --exclude .git --exclude .venv --exclude .hypothesis --exclude .ruff_cache --exclude __pycache__ --exclude .mypy_cache'
+let g:fzf_preview_window = ['up:50%:hidden', 'ctrl-/']
+
+command! -bang -nargs=* All call fzf#vim#files('.', {'options': ['--expect=ctrl-t,ctrl-x,ctrl-v','--multi','--reverse']}, <bang>0)
 "======================== copied from source: https://github.com/junegunn/fzf.vim/blob/master/plugin/fzf.vim ============
 "======================== can possibly be removed  after update =========================================================
-command! -bang -nargs=* Rg
-  \ call fzf#vim#grep("rg --column --line-number --no-heading --color=always --smart-case -- ".shellescape(<q-args>),
-  \ 1, s:p(), <bang>0)
+command! -bang -nargs=* Rg call fzf#vim#grep('rg --column --line-number --no-heading --color=always '.shellescape(<q-args>), 1, fzf#vim#with_preview(), <bang>0)
+command! -bang -nargs=* History call s:history(<q-args>, s:p(), <bang>0)')
 
-command! -bang -nargs=* History
-  \ call s:history(<q-args>, s:p(), <bang>0)'])
-
-command! -bar -bang -nargs=? -complete=buffer Buffers
-  \ call fzf#vim#buffers(<q-args>, s:p({ "placeholder": "{1}" }), <bang>0)
+command! -bar -bang -nargs=? -complete=buffer Buffers call fzf#vim#buffers(<q-args>, s:p({ "placeholder": "{1}" }), <bang>0)
 
 function! s:p(...)
   let preview_args = get(g:, 'fzf_preview_window', ['right', 'ctrl-/'])

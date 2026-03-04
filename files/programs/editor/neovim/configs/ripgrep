@@ -1,0 +1,8 @@
+--hidden
+--glob=!.git/**
+--glob=!.venv/**
+--glob=!.hypothesis/**
+--glob=!.ruff_cache/**
+--glob=!__pycache__/**
+--glob=!node_modules/**
+--smart-case

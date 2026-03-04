@@ -39,8 +39,8 @@ in
 
   environment.etc."alacritty/alacritty.yml".text = builtins.toJSON alacrittyConfig;
   environment.variables = {
-    EDITROR= "nvim";
-    BROWSER= "chromium";
+    EDITOR= "nvim";
+    BROWSER= "brave";
     TERMINAL= "alacritty";
     };
 
@@ -240,6 +240,7 @@ programs.neovim = {
     docker-compose
     element-desktop
     evince
+    fd
     firefox
     flameshot
     fzf

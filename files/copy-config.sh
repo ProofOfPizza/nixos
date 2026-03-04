@@ -7,6 +7,7 @@ USER_HOME="/home/chai"
 mkdir -p "$USER_HOME/.config/scripts"
 mkdir -p "$USER_HOME/.config/nvim/colors"
 mkdir -p "$USER_HOME/.config/i3"
+mkdir -p "$USER_HOME/.config/ripgrep"
 mkdir -p "$USER_HOME/.config/i3status"
 mkdir -p "$USER_HOME/.vifm/scripts"
 mkdir -p "$USER_HOME/.vifm/colors"
@@ -17,6 +18,8 @@ cp /etc/nixos/programs/scripts/batt-check.py "$USER_HOME/.config/scripts/batt-ch
 # Copy Neovim configuration files
 cp /etc/nixos/programs/editor/neovim/configs/SpaceMacs.vim "$USER_HOME/.config/nvim/colors/SpaceMacs.vim"
 cp /etc/nixos/programs/editor/neovim/configs/coc-settings.json "$USER_HOME/.config/nvim/coc-settings.json"
+cp /etc/nixos/programs/editor/neovim/configs/ripgrep "$USER_HOME/.config/ripgrep/config"
+cp /etc/nixos/programs/editor/neovim/configs/ignore "$USER_HOME/.ignore"
 cp /etc/nixos/programs/editor/neovim/configs/eslintrc.js "$USER_HOME/eslintrc.js"
 cp /etc/nixos/programs/editor/neovim/init.vim "$USER_HOME/.config/nvim/init.vim"
 
@@ -46,5 +49,6 @@ chown -R chai:users "$USER_HOME/.vifm"
 chown chai:users "$USER_HOME/eslintrc.js"
 chown chai:users "$USER_HOME/.gitconfig"
 chown -R chai:users "$USER_HOME/.config/nvim"
+chown -R chai:users "$USER_HOME/.config/ripgrep"
 chown chai:users "$USER_HOME/.zshrc"
 
