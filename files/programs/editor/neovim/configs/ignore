@@ -1,7 +1,13 @@
 .git
 .venv
-.hypothesis
+.direnv
+.mypy_cache
+.pytest_cache
 .ruff_cache
+.hypothesis
 __pycache__
 node_modules
-.direnv
+dist
+build
+.eggs
+*.egg-info
