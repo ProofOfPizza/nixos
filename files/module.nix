@@ -28,9 +28,14 @@ in {
     # Disable systemd-resolved managing the stub file
     services.resolved = {
       enable = true;
-      extraConfig = ''
-        DNSStubListener=no
-      '';
+
+      settings = {
+        Resolve = {
+          DNSSEC = "allow-downgrade";
+          FallbackDNS = [ "1.1.1.1" "8.8.8.8" ];
+          DNSStubListener = "no"; # if you keep it here
+        };
+      };
     };
 
     ##################################################

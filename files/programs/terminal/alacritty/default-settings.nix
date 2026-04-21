@@ -16,7 +16,11 @@
 
   cursor = { style = "Beam"; };
 
-  shell = { program = "zsh"; };
+  terminal = {
+    shell = {
+      program = "zsh";
+    };
+  };
 
   colors = {
     primary = {

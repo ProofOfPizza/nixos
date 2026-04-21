@@ -308,9 +308,9 @@ filetype *.zip
       \ unzip %c
 
 filextype *.cbr
-        \ mcomix3 -f -h -m %c
+        \ mcomix -f -h -m %c
 "fileviewer *.cbr
-"        \ mcomix3 %c
+"        \ mcomix %c
 
 
 "FuseZipMount

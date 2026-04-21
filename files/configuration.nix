@@ -37,7 +37,7 @@ in
     '';
   };
 
-  environment.etc."alacritty/alacritty.yml".text = builtins.toJSON alacrittyConfig;
+  environment.etc."alacritty/alacritty.toml".source = (pkgs.formats.toml { }).generate "alacritty.toml" alacrittyConfig;
   environment.variables = {
     EDITOR= "nvim";
     BROWSER= "brave";
@@ -113,7 +113,7 @@ in
       xkb.options = "caps:swapescape";
       windowManager.i3 = {
         enable = true;
-        package = pkgs.i3-gaps;
+        package = pkgs.i3;
         extraPackages = with pkgs; [
           dmenu
           i3status
@@ -245,10 +245,8 @@ programs.neovim = {
     flameshot
     fzf
     git
-    glxinfo
     gnome-keyring
     gnupg
-    helvum
     htop
     jq
     keepass
@@ -256,7 +254,8 @@ programs.neovim = {
     libreoffice
     librewolf
     lorri
-    mcomix3
+    mcomix
+    mesa-demos
     mullvad-browser
     nextcloud-client
     nmap
@@ -267,11 +266,12 @@ programs.neovim = {
     pavucontrol
     pciutils
     peek
-    poppler_utils
+    poppler-utils
     postman
     pulseaudio
     pulsemixer
     python3
+    qbz
     ripgrep
     signal-desktop
     slack
@@ -312,8 +312,16 @@ programs.neovim = {
 
   services.flatpak.enable = true;
 
-  xdg.portal.enable = true;
-  xdg.portal.extraPortals = [ pkgs.xdg-desktop-portal-gtk ];
+  xdg.portal = {
+    enable = true;
+    extraPortals = [ pkgs.xdg-desktop-portal-gtk ];
+
+    config = {
+      common = {
+        default = "*";
+      };
+    };
+  };
 
   environment.variables.DUMMY_FORCE_REBUILD = "true";
   hardware.bluetooth.enable = true;
@@ -365,13 +373,6 @@ system.activationScripts.removeOldWirePlumberLua.text = ''
   '';
   boot.blacklistedKernelModules = [ "nouveau" "nvidia" "nvidia_drm" "nvidia_modeset" ];
   ## End batt saving stuff
-
-# Use systemd-resolved with public DNS so CT avoids flaky modem DNS
-services.resolved = {
-  enable = true;
-  fallbackDns = [ "1.1.1.1" "8.8.8.8" ];
-  dnssec = "allow-downgrade";
-};
 
 ######################################################
 # Stuff done to get sonicwall to work
