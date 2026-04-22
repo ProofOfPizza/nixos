@@ -43,7 +43,6 @@ in
     BROWSER= "brave";
     TERMINAL= "alacritty";
     };
-
   fonts.packages = with pkgs; [
     inconsolata
     powerline-fonts
@@ -235,6 +234,7 @@ programs.neovim = {
     brave
     calibre
     chromium
+    claude-code
     direnv
     docker
     docker-compose

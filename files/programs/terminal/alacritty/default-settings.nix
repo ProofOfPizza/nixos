@@ -9,9 +9,9 @@
 
   font = {
     size = 11.0;
-    normal = { family = "Inconsolata-g for Powerline"; };
-    bold = { family = "Inconsolata-g for Powerline"; };
-    italic = { family = "Inconsolata-g for Powerline"; };
+    normal = { family = "Inconsolata for Powerline"; };
+    bold   = { family = "Inconsolata for Powerline"; };
+    italic = { family = "Inconsolata for Powerline"; };
   };
 
   cursor = { style = "Beam"; };

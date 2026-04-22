@@ -106,5 +106,6 @@ alias vimii="x='/home/chai/.vim/pack/coc/start'; if [ ! -d '\$x' ]; then mkdir -
 alias x="exit"
 alias xc="xclip_in"
 
+source ~/.claude/cw.zsh
 # direnv hook
 eval "$(direnv hook zsh)"

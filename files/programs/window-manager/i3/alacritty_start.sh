@@ -1,13 +1,13 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-# Detect the number of monitors
-MONITORS=$(xrandr --listmonitors | grep Monitors | awk '{print $2}')
+OUTPUT=$(i3-msg -t get_workspaces | jq -r '.[] | select(.focused==true) | .output')
 
-if [[ "$MONITORS" -gt 1 ]]; then
-    FONT_SIZE=15  # Larger font for multiple monitors
+echo "Detected output: $OUTPUT" >&2
+
+if [ "$OUTPUT" = "HDMI-A-0" ]; then
+    FONT_SIZE=18
 else
-    FONT_SIZE=11  # Default font size
+    FONT_SIZE=15
 fi
 
-# Start Alacritty with the adjusted font size
-env ALACRITTY_FONT_SIZE=$FONT_SIZE alacritty --option font.size=$FONT_SIZE
+exec alacritty --option font.size="$FONT_SIZE"
