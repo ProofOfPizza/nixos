@@ -245,7 +245,9 @@ programs.neovim = {
     flameshot
     fzf
     git
+    glow
     gnome-keyring
+    grip
     gnupg
     htop
     jq
