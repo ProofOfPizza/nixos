@@ -247,7 +247,7 @@ programs.neovim = {
     git
     glow
     gnome-keyring
-    grip
+    python3Packages.grip
     gnupg
     htop
     jq
