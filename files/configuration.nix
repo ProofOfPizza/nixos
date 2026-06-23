@@ -256,6 +256,7 @@ programs.neovim = {
     libreoffice
     librewolf
     lorri
+    obsidian
     mcomix
     mesa-demos
     mullvad-browser
