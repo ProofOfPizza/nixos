@@ -136,6 +136,9 @@ in
     temperature.night = 3300;
   };
 
+  services.avahi.enable = true;
+  services.avahi.nssmdns4 = true;
+
   location.latitude = 51.2518202;
   location.longitude = 4.023880;
 
@@ -234,7 +237,13 @@ programs.neovim = {
     brave
     calibre
     chromium
-    claude-code
+    (claude-code.overrideAttrs (old: rec {
+      version = "2.1.199";
+      src = fetchurl {
+        url = "https://downloads.claude.ai/claude-code-releases/${version}/linux-x64/claude";
+        sha256 = "b31dfd5e3dee23b51c42e0d8ddb405148978237d3aabc8cbbf77c5cf83367e27";
+      };
+    }))
     direnv
     docker
     docker-compose
@@ -257,10 +266,12 @@ programs.neovim = {
     librewolf
     lorri
     obsidian
+    mattermost-desktop
     mcomix
     mesa-demos
     mullvad-browser
     nextcloud-client
+    nextcloud-talk-desktop
     nmap
     nodejs_22
     oh-my-zsh

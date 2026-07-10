@@ -9,6 +9,7 @@ mkdir -p "$USER_HOME/.config/nvim/colors"
 mkdir -p "$USER_HOME/.config/i3"
 mkdir -p "$USER_HOME/.config/ripgrep"
 mkdir -p "$USER_HOME/.config/i3status"
+mkdir -p "$USER_HOME/.config/flameshot"
 mkdir -p "$USER_HOME/.vifm/scripts"
 mkdir -p "$USER_HOME/.vifm/colors"
 
@@ -43,6 +44,9 @@ cp /etc/nixos/programs/shell/zsh/.zshrc "$USER_HOME/.zshrc"
 # Copy Git configuration file
 cp /etc/nixos/programs/git/git/gitconfig "$USER_HOME/.gitconfig"
 
+# Copy Flameshot configuration file
+cp /etc/nixos/programs/custom-built/flameshot/flameshot.ini "$USER_HOME/.config/flameshot/flameshot.ini"
+
 # Set ownership to the correct user and group
 chown -R chai:users "$USER_HOME/.config"
 chown -R chai:users "$USER_HOME/.vifm"
@@ -51,4 +55,5 @@ chown chai:users "$USER_HOME/.gitconfig"
 chown -R chai:users "$USER_HOME/.config/nvim"
 chown -R chai:users "$USER_HOME/.config/ripgrep"
 chown chai:users "$USER_HOME/.zshrc"
+chown -R chai:users "$USER_HOME/.config/flameshot"
 
