@@ -58,8 +58,8 @@ au BufRead,BufNewFile *.feature setlocal spell
 
 " Floaterm configuration
 let g:floaterm_opener = 'edit'
-vnoremap <leader>m :FloatermNew --autoclose=2 vifm<CR>
-nnoremap <leader>m :FloatermNew --autoclose=2 vifm<CR>
+vnoremap <leader>m :FloatermNew --autoclose=always vifm<CR>
+nnoremap <leader>m :FloatermNew --autoclose=always vifm<CR>
 
 " Buffer navigation
 map <leader>0 :bn<cr>
