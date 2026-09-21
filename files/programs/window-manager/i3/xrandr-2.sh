@@ -1,4 +1,5 @@
 #!/bin/bash
+bash "$HOME/.config/i3/xrandr-unmirror.sh"
 connectedOutputs=$(xrandr | grep " connected" | sed -e "s/\([A-Z0-9]\+\) connected.*/\1/")
 cute="xrandr "
 xrandr --auto

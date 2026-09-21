@@ -5,7 +5,7 @@ let
   throwSystem = throw "Unsupported system: ${system}";
 
   pname = "keeweb";
-  version = "1.16.7";
+  version = "1.18.7";
   name = "${pname}-${version}";
 
   suffix = {
@@ -17,14 +17,14 @@ let
   src = fetchurl {
     url = "https://github.com/keeweb/keeweb/releases/download/v${version}/KeeWeb-${version}.${suffix}";
     sha256 = {
-      x86_64-linux = "0a4yh2jh9sph17mqqi62gm5jc4yffkysq6yiggyzz5f8xw4p315j";
+      x86_64-linux = "01hzadg8mflhgi4357j0ng6diacffy9ys4nhl6dv6z0rnsixyw2v";
       x86_64-darwin = "0crpjkcqgs7q5c814bx2npjh9kpyyb87yagm5wcy9j21kwrbqv6k";
       aarch64-darwin = "1wkf9inrm5qg0c4xrk0s97mx5j21xvlqwwkvydl513gyfzi2g9gp";
     }.${system} or throwSystem;
   };
 
   appimageContents = appimageTools.extract {
-    inherit name src;
+    inherit pname version src;
   };
 
   meta = with lib; {
@@ -36,10 +36,9 @@ let
   };
 
   linux = appimageTools.wrapType2 rec {
-    inherit name src meta;
-    extraPkgs = pkgs: with pkgs; [ libsecret ];
+    inherit pname version src meta;
+    extraPkgs = pkgs: with pkgs; [ libsecret libxshmfence ];
     extraInstallCommands = ''
-      mv $out/bin/{${name},${pname}}
       install -Dm644 ${appimageContents}/keeweb.desktop -t $out/share/applications
       install -Dm644 ${appimageContents}/keeweb.png -t $out/share/icons/hicolor/256x256/apps
       install -Dm644 ${appimageContents}/usr/share/mime/keeweb.xml -t $out/share/mime

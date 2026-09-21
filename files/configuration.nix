@@ -197,6 +197,8 @@ programs.neovim = {
   };
 };
 
+  services.udev.packages = [ pkgs.brightnessctl ];
+
   programs.nix-ld.enable = true;
   programs.nix-ld.libraries = with pkgs; [
     stdenv.cc.cc
@@ -218,7 +220,7 @@ programs.neovim = {
     isNormalUser = true;
     description = "chai";
     shell = pkgs.zsh;
-    extraGroups = [ "networkmanager" "wheel" "docker" "beep" ];
+    extraGroups = [ "networkmanager" "wheel" "docker" "beep" "video" ];
     packages = with pkgs; [];
   };
 
@@ -235,15 +237,10 @@ programs.neovim = {
     bluez
     bluez-tools
     brave
+    brightnessctl
     calibre
     chromium
-    (claude-code.overrideAttrs (old: rec {
-      version = "2.1.199";
-      src = fetchurl {
-        url = "https://downloads.claude.ai/claude-code-releases/${version}/linux-x64/claude";
-        sha256 = "b31dfd5e3dee23b51c42e0d8ddb405148978237d3aabc8cbbf77c5cf83367e27";
-      };
-    }))
+    claude-code
     direnv
     docker
     docker-compose
@@ -261,7 +258,7 @@ programs.neovim = {
     htop
     jq
     keepass
-    keeweb
+    (callPackage ./programs/custom-built/keeweb/keeweb.nix { })
     libreoffice
     librewolf
     lorri
@@ -285,12 +282,12 @@ programs.neovim = {
     pulseaudio
     pulsemixer
     python3
-    qbz
     ripgrep
     signal-desktop
     slack
     spotify
     stellarium
+    strawberry
     sublime3
     tidal-hifi
     transmission_4-gtk
