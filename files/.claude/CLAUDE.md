@@ -43,6 +43,9 @@ sudo nixos-rebuild switch --flake /etc/nixos#my-nixos
 # Rebuild without switching (test)
 sudo nixos-rebuild test --flake /etc/nixos#my-nixos
 
+# Deploy dotfiles from programs/ to ~ (nvim, i3, vifm, zsh, git, flameshot)
+sudo bash /etc/nixos/copy-config.sh
+
 # Sync config to git repo
 bash /etc/nixos/sync-to-git.sh
 
@@ -57,6 +60,7 @@ python3 /etc/nixos/qobuz-creds.py
 ```
 
 ## Gotchas
+- **Dotfiles in `programs/` are not live until `copy-config.sh` runs.** It copies them into `~` with plain `cp`; a rebuild does not deploy them. Editing only the `/etc/nixos` copy looks like a fix but changes nothing: e.g. nvim loads `~/.config/nvim/init.vim` after the system `customRC`, so the stale home copy wins. `programs/**/default.nix` files with `home.file` are dead (home-manager is not in use).
 - **KeeWeb is self-maintained and load-bearing.** Removed from nixpkgs 2026-09 (EOL Electron; upstream dead since 1.18.7, Jul 2021). Now built locally from `programs/custom-built/keeweb/keeweb.nix`, pinned to 1.18.7. Do not swap for KeePassXC: keeweb syncs the db to Nextcloud over its own WebDAV client (there is no `~/Nextcloud` folder and the Nextcloud desktop client is not running — the WebDAV client *is* the sync), and its global shift-alt-b/c copy hotkeys have no KeePassXC equivalent (KeePassXC has only one global shortcut, Auto-Type).
 - **KeeWeb breaks on nixpkgs bumps — check `extraPkgs` first.** The AppImage runs in an `appimageTools.wrapType2` FHS env; as nixpkgs' default Electron lib set drifts, libs silently drop out. Symptom is `error while loading shared libraries: <lib>.so.N` on launch. Fix: add the lib to `extraPkgs` in `keeweb.nix`. Already needed: `libsecret`, `libxshmfence`. Do not diagnose with `ldd` on the extracted binary — it runs outside the sandbox and reports ~30 false positives the FHS actually provides; trust the runtime error message instead.
 - Test keeweb from `~`, not `/etc/nixos` — bwrap can't chdir into a path absent from the sandbox (`bwrap: Can't chdir to /etc/nixos`). Fontconfig `invalid attribute 'xsi:nil'` spam on launch is cosmetic (bundled fontconfig is older than `/etc/fonts`).
