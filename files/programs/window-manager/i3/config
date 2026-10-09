@@ -120,7 +120,7 @@ bindsym $mod+F4 exec bash '/home/chai/.config/i3/xrandr-1.sh'
 bindsym $mod+F6 exec bash '/home/chai/.config/i3/xrandr-1920.sh'
 bindsym $mod+F8 exec bash '/home/chai/.config/i3/xrandr-mirror.sh' 2560x1440
 bindsym $mod+F9 exec bash '/home/chai/.config/i3/xrandr-mirror.sh' 3840x2160
-bindsym $mod+F7 exec terminal alacritty -e 'alsamixer'
+bindsym $mod+F7 exec bash '/home/chai/.config/i3/xrandr-mirror.sh' 1920x1080 60
 # bindsym $mod+t exec --no-startup-id pkill compton
 # bindsym $mod+Ctrl+t exec --no-startup-id compton -b
 bindsym $mod+Shift+d --release exec "killall dunst;"

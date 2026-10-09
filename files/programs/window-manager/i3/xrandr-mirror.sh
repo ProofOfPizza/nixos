@@ -13,7 +13,7 @@ fi
 # the projector is the screen being watched, so it drives the framebuffer at its
 # native mode and the aspect mismatch is absorbed by the dimmed laptop panel
 if [ -n "$mode" ]; then
-  xrandr --output "$ext" --mode "$mode" --primary --scale 1x1
+  xrandr --output "$ext" --mode "$mode" ${2:+--rate "$2"} --primary --scale 1x1
 else
   xrandr --output "$ext" --auto --primary --scale 1x1
 fi
