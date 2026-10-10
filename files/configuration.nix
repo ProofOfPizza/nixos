@@ -125,6 +125,9 @@ in
 	'';
       };
       videoDrivers = [ "amdgpu" ];
+      deviceSection = ''
+        Option "TearFree" "true"
+      '';
     };
   };
   virtualisation.docker.enable = true;
