@@ -67,6 +67,22 @@ function vicd() {
   cd "$dst"
 }
 
+function die() {
+  [[ "$1" == <-> ]] && { echo "die matches command lines; for workspaces use: burn $1"; return 1 }
+  (( ${#1} >= 3 )) || { echo "die: pattern too short, would match half the system"; return 1 }
+  pkill -i -f -e "$1"
+}
+
+# Close politely first, then cut the X connection of whatever refused.
+# kill client takes down every window of that process, also on other workspaces.
+function burn() {
+  [[ "$1" == <-> ]] || { echo "usage: burn <workspace number>"; return 1 }
+  local criteria="[workspace=\"^$1\$\"]"
+  i3-msg "$criteria kill" > /dev/null
+  sleep 2
+  i3-msg "$criteria kill client" > /dev/null
+}
+
 # Aliases
 alias adab="cd ~/code/projects/adabtive && r"
 alias cc="rm -rf ~/.config/Cypress"
@@ -76,7 +92,6 @@ alias cfv="vim ~/.config/nixpkgs/program/editor/neovim/default.nix"
 alias cfx="vim ~/.Xresources"
 alias cfz="vim ~/.config/nixpkgs/program/shell/zsh/default.nix"
 alias conflicts="git diff --name-only --diff-filter=U"
-alias die="pkill -i \$1 -f -e"
 alias dstop="docker stop \$(docker ps -q); docker rm --force \$(docker ps -a -q); docker system prune -af --volumes"
 alias dstopz="docker stop \$(docker ps -q); docker rm --force \$(docker ps -a -q)"
 alias fzfi="rg --files --hidden --follow --no-ignore-vcs -g '!{node_modules,.git}' | fzf"
