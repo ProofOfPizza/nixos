@@ -98,7 +98,6 @@ alias fzfi="rg --files --hidden --follow --no-ignore-vcs -g '!{node_modules,.git
 alias gd="cd ~/Downloads && r"
 alias gdev="cd ~/code/projects && r"
 alias gf="cd ~/code/Consular.Kairos.Frontend/src/Portals/kairos && r"
-alias gh="cd ~ && r"
 alias gn="cd ~/Nextcloud/Documents && r"
 alias kk="kill -9 \$(pgrep KeeWeb)"
 alias k="kubectl"

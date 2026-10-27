@@ -253,7 +253,9 @@ programs.neovim = {
     firefox
     flameshot
     fzf
+    gh
     git
+    glab
     glow
     gnome-keyring
     python3Packages.grip

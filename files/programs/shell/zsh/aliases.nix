@@ -15,7 +15,6 @@
   gd = "cd ~/Downloads && r";
   gdev = "cd ~/code/projects && r";
   gf = "cd ~/code/Consular.Kairos.Frontend/src/Portals/kairos && r";
-  gh = "cd ~ && r";
   gn = "cd ~/Nextcloud/Documents && r";
   kk = "kill -9 $(pgrep KeeWeb)";
   kswp = "cd ~/.local/state/nvim/swap && rm *.* && ls -a";
